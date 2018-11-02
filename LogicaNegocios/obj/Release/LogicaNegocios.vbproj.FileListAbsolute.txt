@@ -1,0 +1,112 @@
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\LogicaNegocios.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\LogicaNegocios.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\LogicaNegocios.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\Datos.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\Negocio.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\Negocio.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\Negocio.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\Datos.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\Datos.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\obj\Release\ResolveAssemblyReference.cache
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\obj\Release\LogicaNegocios.Resources.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\obj\Release\LogicaNegocios.vbproj.GenerateResource.Cache
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\obj\Release\LogicaNegocios.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\obj\Release\LogicaNegocios.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\obj\Release\LogicaNegocios.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\LogicaNegocios.dll
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\LogicaNegocios.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\LogicaNegocios.xml
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\Datos.dll
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\Negocio.dll
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\Negocio.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\Negocio.xml
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\Datos.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\Datos.xml
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\obj\Release\LogicaNegocios.Resources.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\obj\Release\LogicaNegocios.vbproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\obj\Release\LogicaNegocios.dll
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\obj\Release\LogicaNegocios.xml
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\obj\Release\LogicaNegocios.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\Conecion.dll
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\Conecion.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\Conecion.xml
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\LogicaNegocios\bin\Release\MySql.Data.dll
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\LogicaNegocios.dll
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\LogicaNegocios.pdb
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\LogicaNegocios.xml
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Datos.dll
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Negocio.dll
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\MySql.Data.dll
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Conecion.dll
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Datos.pdb
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Datos.xml
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Negocio.pdb
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Negocio.xml
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Conecion.pdb
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Conecion.xml
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.Resources.resources
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.dll
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.xml
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.pdb
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.vbprojResolveAssemblyReference.cache
+D:\ASDII\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.vbproj.GenerateResource.Cache
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\LogicaNegocios.dll
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\LogicaNegocios.pdb
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\LogicaNegocios.xml
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Datos.dll
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Negocio.dll
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\MySql.Data.dll
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Conecion.dll
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Datos.pdb
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Datos.xml
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Negocio.pdb
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Negocio.xml
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Conecion.pdb
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\bin\Release\Conecion.xml
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.vbprojResolveAssemblyReference.cache
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.Resources.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.vbproj.GenerateResource.Cache
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.dll
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.xml
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.pdb
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\bin\Release\LogicaNegocios.dll
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\bin\Release\LogicaNegocios.pdb
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\bin\Release\LogicaNegocios.xml
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\bin\Release\Datos.dll
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\bin\Release\Negocio.dll
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\bin\Release\MySql.Data.dll
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\bin\Release\Conecion.dll
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\bin\Release\Datos.pdb
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\bin\Release\Datos.xml
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\bin\Release\Negocio.pdb
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\bin\Release\Negocio.xml
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\bin\Release\Conecion.pdb
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\bin\Release\Conecion.xml
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.vbprojResolveAssemblyReference.cache
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.Resources.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.vbproj.GenerateResource.Cache
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.dll
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.xml
+D:\Prueba Proyecto\SistemaAsdi 2008\LogicaNegocios\obj\Release\LogicaNegocios.pdb
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\bin\Release\LogicaNegocios.dll
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\bin\Release\LogicaNegocios.pdb
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\bin\Release\LogicaNegocios.xml
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\bin\Release\Datos.dll
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\bin\Release\Negocio.dll
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\bin\Release\MySql.Data.dll
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\bin\Release\Conecion.dll
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\bin\Release\Datos.pdb
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\bin\Release\Datos.xml
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\bin\Release\Negocio.pdb
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\bin\Release\Negocio.xml
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\bin\Release\Conecion.pdb
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\bin\Release\Conecion.xml
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\obj\Release\LogicaNegocios.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\obj\Release\LogicaNegocios.Resources.resources
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\obj\Release\LogicaNegocios.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\obj\Release\LogicaNegocios.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\obj\Release\LogicaNegocios.vbproj.CopyComplete
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\obj\Release\LogicaNegocios.dll
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\obj\Release\LogicaNegocios.xml
+C:\Users\HP\Documents\SistemaAsdi1\LogicaNegocios\obj\Release\LogicaNegocios.pdb

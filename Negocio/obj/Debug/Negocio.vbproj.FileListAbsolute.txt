@@ -1,0 +1,9 @@
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\bin\Debug\Negocio.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\bin\Debug\Negocio.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\bin\Debug\Negocio.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Debug\ResolveAssemblyReference.cache
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Debug\Negocio.Resources.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Debug\Negocio.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Debug\Negocio.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Debug\Negocio.pdb

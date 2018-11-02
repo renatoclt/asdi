@@ -1,0 +1,509 @@
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\SistemaAsdi.exe.manifest
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\SistemaAsdi.application
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\SistemaAsdi.exe
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\SistemaAsdi.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\SistemaAsdi.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\LogicaNegocios.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\Negocio.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\Datos.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\Negocio.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\Negocio.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\Datos.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\Datos.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\LogicaNegocios.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\LogicaNegocios.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\ResolveAssemblyReference.cache
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_alumno_buscar.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_cursos_ofertados.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso_grupo.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso_plan_est.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_alumnos.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_profesores.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_acerca_de.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_aula.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula_mover.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_curso_periodo.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_curso_horario.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_periodo.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_horario.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_curso.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_periodo.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_horario.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_curso.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_profesor.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_periodo_selected.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_persona_profesor.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_plan_estudio.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_profesor_buscar.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_documento.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_horario.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_login.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_periodo.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_principal.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_estado_alumno.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_rol.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_tramite.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite_entregar.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite_lista.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_view_cursos.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.Resources.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_rpt_listas.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.vbproj.GenerateResource.Cache
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.exe.manifest
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.application
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.exe
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_alumnos_notas.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.exe
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.xml
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\SistemaAsdi.exe.manifest
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\SistemaAsdi.application
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\SistemaAsdi.exe
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\SistemaAsdi.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\SistemaAsdi.xml
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\LogicaNegocios.dll
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\Negocio.dll
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\Datos.dll
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\Negocio.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\Negocio.xml
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\Datos.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\Datos.xml
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\LogicaNegocios.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\LogicaNegocios.xml
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_alumnos_notas.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_alumno_buscar.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_cursos_ofertados.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso_grupo.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso_plan_est.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_alumnos.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_profesores.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_acerca_de.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_aula.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula_mover.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_curso_periodo.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_curso_horario.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_periodo.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_horario.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_curso.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_periodo.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_horario.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_curso.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_profesor.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_periodo_selected.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_persona_profesor.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_plan_estudio.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_profesor_buscar.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_documento.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_horario.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_login.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_periodo.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_principal.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_estado_alumno.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_rol.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_tramite.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite_entregar.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite_lista.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_view_cursos.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.Resources.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_rpt_listas.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.vbproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.exe.manifest
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.application
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\MySql.Data.dll
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_trabajadores.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_cambio_contrasenia.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_alumno.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_profesor.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_trabajador.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\Conecion.dll
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\Conecion.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Release\Conecion.xml
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_separata.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.exe
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.xml
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.pdb
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.exe.manifest
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.application
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.exe
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.pdb
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.xml
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\LogicaNegocios.dll
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Negocio.dll
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Datos.dll
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Conecion.dll
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\LogicaNegocios.pdb
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\LogicaNegocios.xml
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Negocio.pdb
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Negocio.xml
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Datos.pdb
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Datos.xml
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Conecion.pdb
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Conecion.xml
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_alumno_buscar.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_cambio_contrasenia.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_cursos_ofertados.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso_grupo.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso_plan_est.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_alumnos.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_profesores.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_acerca_de.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_aula.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_trabajadores.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula_mover.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_alumno.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_profesor.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_trabajador.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_separata.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_curso_periodo.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_curso_horario.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_periodo.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_horario.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_curso.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_periodo.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_horario.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_curso.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_profesor.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_periodo_selected.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_persona_profesor.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_plan_estudio.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_profesor_buscar.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_documento.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_horario.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_login.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_periodo.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_principal.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_estado_alumno.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_rol.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_tramite.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite_entregar.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite_lista.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_view_cursos.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.Resources.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_rpt_listas.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.exe.manifest
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.application
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.vbprojResolveAssemblyReference.cache
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.vbproj.GenerateResource.Cache
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula_imprimir.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.Frm_Anulacion_Boletas.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.Frm_caja.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula_examen.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_actualizar_matricula.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.Frm_alumno_buscar_actualizar.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_notas.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.Frm_venta_separatas.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.exe.config
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_notas_alumno.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_asistencia.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_cd_separata.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.exe.config
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.exe
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.xml
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.pdb
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.exe.manifest
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.application
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.exe
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.pdb
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.xml
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\LogicaNegocios.dll
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Negocio.dll
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Datos.dll
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Conecion.dll
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\LogicaNegocios.pdb
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\LogicaNegocios.xml
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Negocio.pdb
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Negocio.xml
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Datos.pdb
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Datos.xml
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Conecion.pdb
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\bin\Release\Conecion.xml
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.vbprojResolveAssemblyReference.cache
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_actualizar_matricula.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_alumnos_notas.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_alumno_buscar.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.Frm_alumno_buscar_actualizar.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.Frm_Anulacion_Boletas.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.Frm_caja.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_cambio_contrasenia.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_cd_separata.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_cursos_ofertados.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso_grupo.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso_plan_est.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_alumnos.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_profesores.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_acerca_de.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_aula.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_trabajadores.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula_examen.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula_imprimir.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula_mover.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_alumno.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_profesor.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_trabajador.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_notas.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_separata.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.Frm_venta_separatas.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_asistencia.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_matricula_separada.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_notas_alumno.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_curso_periodo.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_curso_horario.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_periodo.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_horario.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_curso.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_periodo.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_horario.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_curso.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_profesor.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_periodo_selected.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_persona_profesor.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_plan_estudio.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_profesor_buscar.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_documento.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_horario.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_login.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_periodo.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_principal.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_estado_alumno.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_rol.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_tramite.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite_entregar.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite_lista.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_view_cursos.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.Resources.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_rpt_listas.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.vbproj.GenerateResource.Cache
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.exe.manifest
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.application
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumnos_separatas.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumnos_separatas.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_matricula_separada.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_impresora.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_impresora.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumnos_pagos.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_ventas_otros.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_mes.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.exe.config
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.exe
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.xml
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.pdb
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.exe.manifest
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.application
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.exe
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.pdb
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.xml
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\LogicaNegocios.dll
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\Negocio.dll
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\Datos.dll
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\Conecion.dll
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\LogicaNegocios.pdb
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\LogicaNegocios.xml
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\Negocio.pdb
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\Negocio.xml
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\Datos.pdb
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\Datos.xml
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\Conecion.pdb
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\bin\Release\Conecion.xml
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.vbprojResolveAssemblyReference.cache
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_actualizar_matricula.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_alumno_buscar.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.Frm_alumno_buscar_actualizar.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.Frm_Anulacion_Boletas.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.Frm_caja.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_cambio_contrasenia.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_cd_separata.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_cursos_ofertados.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso_grupo.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso_plan_est.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_impresora.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_alumnos.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_profesores.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_acerca_de.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_aula.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_trabajadores.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula_examen.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula_imprimir.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula_mover.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_mes.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_alumno.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_profesor.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_trabajador.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_notas.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_separata.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_ventas_otros.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.Frm_venta_separatas.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumnos_pagos.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumnos_separatas.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_asistencia.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_matricula_separada.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_notas_alumno.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_curso_periodo.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_curso_horario.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_periodo.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_horario.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_curso.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_periodo.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_horario.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_curso.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_profesor.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_periodo_selected.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_persona_profesor.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_plan_estudio.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_profesor_buscar.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_documento.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_horario.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_login.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_periodo.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_principal.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_estado_alumno.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_rol.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_tramite.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite_entregar.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite_lista.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_view_cursos.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.Resources.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_rpt_listas.resources
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.vbproj.GenerateResource.Cache
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.exe.manifest
+D:\Prueba Proyecto\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.application
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_anulacion_matricula.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_matricula_espera.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_transferencia_matricula.resources
+D:\ASDII\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.frm_otro_ciclo.resources
+D:\PROYECTOS\ASDI\SistemaAsdi 2008\SistemaAsdi\bin\Release\SistemaAsdi.exe.config
+D:\PROYECTOS\ASDI\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.exe
+D:\PROYECTOS\ASDI\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.xml
+D:\PROYECTOS\ASDI\SistemaAsdi 2008\SistemaAsdi\obj\Release\SistemaAsdi.pdb
+F:\PROYECTOS\ASDI\SistemaAsdi\SistemaAsdi\bin\Release\SistemaAsdi.exe.config
+F:\PROYECTOS\ASDI\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.exe
+F:\PROYECTOS\ASDI\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.xml
+F:\PROYECTOS\ASDI\SistemaAsdi\SistemaAsdi\obj\Release\SistemaAsdi.pdb
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_actualizar_matricula.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_alumno_buscar.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.Frm_alumno_buscar_actualizar.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.Frm_Anulacion_Boletas.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_anulacion_matricula.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.Frm_caja.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_cambio_contrasenia.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_cd_separata.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_cursos_ofertados.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso_grupo.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso_plan_est.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_impresora.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_alumnos.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_profesores.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_acerca_de.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_aula.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_curso.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_ingreso_trabajadores.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula_examen.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula_imprimir.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula_mover.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_mes.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_alumno.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_matricula_espera.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_profesor.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_modificar_trabajador.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_notas.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_otro_ciclo.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_separata.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_transferencia_matricula.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_ventas_otros.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.Frm_venta_separatas.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumnos_pagos.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumnos_separatas.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_asistencia.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_matricula_separada.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_notas_alumno.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_curso_periodo.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_curso_horario.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_periodo.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_horario.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_profesor_curso.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_periodo.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_horario.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_curso.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_lista_alumno_profesor.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_matricula.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_periodo_selected.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_persona_profesor.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_plan_estudio.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_profesor_buscar.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_documento.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_horario.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_login.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_periodo.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_principal.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_estado_alumno.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_rol.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_tp_tramite.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite_entregar.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_tramite_lista.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_view_cursos.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.Resources.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.frm_rpt_listas.resources
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.exe
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.xml
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.pdb
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\SistemaAsdi.exe.config
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\SistemaAsdi.exe.manifest
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\SistemaAsdi.application
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\SistemaAsdi.exe
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\SistemaAsdi.pdb
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\SistemaAsdi.xml
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\LogicaNegocios.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\Negocio.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\Datos.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\FlashControlV71.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\Conecion.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\stdole.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\LogicaNegocios.pdb
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\LogicaNegocios.xml
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\Negocio.pdb
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\Negocio.xml
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\Datos.pdb
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\Datos.xml
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\Conecion.pdb
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\bin\Release\Conecion.xml
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.exe.manifest
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.application
+C:\Users\HP\Documents\SistemaAsdi1\SistemaAsdi\obj\Release\SistemaAsdi.vbproj.CopyComplete

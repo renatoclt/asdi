@@ -1,0 +1,496 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SistemaAsdi
+</name>
+</assembly>
+<members>
+<member name="T:SistemaAsdi.My.Resources.Resources">
+<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:SistemaAsdi.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:SistemaAsdi.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_datos">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_datos.matriculaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_datos.view_alumno_notasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_datos.matriculaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_datos.view_alumno_notasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_datos.matriculaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_datos.view_alumno_notasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_datosTableAdapters.matriculaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_datosTableAdapters.view_alumno_notasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_datosTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_alumnos_datosTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaAsdi.Lista_alumnos_datos,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_alumnos_datosTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaAsdi.Lista_alumnos_datos,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_alumnos_datosTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaAsdi.Lista_alumnos_datos,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_alumnos_datosTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_alumnos_datosTableAdapters.TableAdapterManager.UpdateAll(SistemaAsdi.Lista_alumnos_datos)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_datosTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_datosTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_notas">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_notas.view_alumno_notasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_notas.view_alumno_notasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_notas.view_alumno_notasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_notasTableAdapters.view_alumno_notasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_notasTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_alumnos_notasTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaAsdi.Lista_alumnos_notas,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_alumnos_notasTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaAsdi.Lista_alumnos_notas,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_alumnos_notasTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaAsdi.Lista_alumnos_notas,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_alumnos_notasTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_alumnos_notasTableAdapters.TableAdapterManager.UpdateAll(SistemaAsdi.Lista_alumnos_notas)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_notasTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_notasTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumnos_pagos">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumnos_pagos.view_alumno_pagosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumnos_pagos.view_alumno_pagosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumnos_pagos.view_alumno_pagosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumnos_pagosTableAdapters.view_alumno_pagosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumnos_pagosTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SistemaAsdi.lista_alumnos_pagosTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaAsdi.lista_alumnos_pagos,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.lista_alumnos_pagosTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaAsdi.lista_alumnos_pagos,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.lista_alumnos_pagosTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaAsdi.lista_alumnos_pagos,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.lista_alumnos_pagosTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SistemaAsdi.lista_alumnos_pagosTableAdapters.TableAdapterManager.UpdateAll(SistemaAsdi.lista_alumnos_pagos)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumnos_pagosTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumnos_pagosTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_separata">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_separata.view_alumno_separatasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_separata.view_alumno_separatasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_separata.view_alumno_separatasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_separataTableAdapters.view_alumno_separatasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_separataTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_alumnos_separataTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaAsdi.Lista_alumnos_separata,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_alumnos_separataTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaAsdi.Lista_alumnos_separata,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_alumnos_separataTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaAsdi.Lista_alumnos_separata,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_alumnos_separataTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_alumnos_separataTableAdapters.TableAdapterManager.UpdateAll(SistemaAsdi.Lista_alumnos_separata)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_separataTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_alumnos_separataTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumno_asistencia">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumno_asistencia.view_alumno_asistenciaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumno_asistencia.view_alumno_asistenciaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumno_asistencia.view_alumno_asistenciaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumno_asistenciaTableAdapters.view_alumno_asistenciaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaAsdi.lista_alumno_asistencia,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaAsdi.lista_alumno_asistencia,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaAsdi.lista_alumno_asistencia,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager.UpdateAll(SistemaAsdi.lista_alumno_asistencia)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_matricula_separada">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_matricula_separada.view_matriculas_separadasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_matricula_separada.view_matriculas_separadasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_matricula_separada.view_matriculas_separadasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_matricula_separadaTableAdapters.view_matriculas_separadasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_matricula_separadaTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_matricula_separadaTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaAsdi.Lista_matricula_separada,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_matricula_separadaTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaAsdi.Lista_matricula_separada,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_matricula_separadaTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaAsdi.Lista_matricula_separada,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_matricula_separadaTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SistemaAsdi.Lista_matricula_separadaTableAdapters.TableAdapterManager.UpdateAll(SistemaAsdi.Lista_matricula_separada)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_matricula_separadaTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SistemaAsdi.Lista_matricula_separadaTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_curso">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_curso.lista_cursoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_curso.lista_cursoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_curso.lista_cursoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_profesor">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_profesor.lista_profesorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_profesor.lista_profesorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_profesor.lista_profesorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumno_profesor">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumno_profesor.view_alumno_profesorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumno_profesor.view_alumno_profesorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_alumno_profesor.view_alumno_profesorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+</members>
+</doc>

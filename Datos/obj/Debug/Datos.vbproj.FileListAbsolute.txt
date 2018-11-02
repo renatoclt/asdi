@@ -1,0 +1,13 @@
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Datos\bin\Debug\Datos.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Datos\bin\Debug\Datos.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Datos\bin\Debug\Datos.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Datos\obj\Debug\Datos.Resources.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Datos\obj\Debug\Datos.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Datos\obj\Debug\Datos.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Datos\obj\Debug\Datos.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Datos\bin\Debug\Negocio.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Datos\bin\Debug\Negocio.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Datos\bin\Debug\Negocio.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Datos\bin\Debug\MySql.Data.dll

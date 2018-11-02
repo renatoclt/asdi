@@ -1,0 +1,1174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5DDCA1B7-DDCA-4AC1-80E0-A09F273B3423}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SistemaAsdi.My.MyApplication</StartupObject>
+    <RootNamespace>SistemaAsdi</RootNamespace>
+    <AssemblyName>SistemaAsdi</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+    <ManifestCertificateThumbprint>2B922188FBFC7D25DF277964FAA39B8EE7A55574</ManifestCertificateThumbprint>
+    <ManifestKeyFile>SistemaAsdi_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>24</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SistemaAsdi.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42353,42354,42355</NoWarn>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SistemaAsdi.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42353,42354,42355</NoWarn>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DataGridViewColumnsTrial, Version=1.5.11.0, Culture=neutral, PublicKeyToken=26596b3a8d7c8940, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DataGridViewColumnsTrial.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.7.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases ARP\Cls_Anulacion_Matricula.vb" />
+    <Compile Include="Clases ARP\Cls_Caja.vb" />
+    <Compile Include="Clases ARP\Cls_Horario.vb" />
+    <Compile Include="Clases ARP\Cls_Matricula.vb" />
+    <Compile Include="Clases ARP\Cls_Notas.vb" />
+    <Compile Include="Clases ARP\Cls_Separata.vb" />
+    <Compile Include="Clases ARP\Cls_Tramite.vb" />
+    <Compile Include="Clases ARP\Cls_Variables.vb" />
+    <Compile Include="Clases ARP\Conexion.vb" />
+    <Compile Include="Forms\frm_actualizar_matricula.Designer.vb">
+      <DependentUpon>frm_actualizar_matricula.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_actualizar_matricula.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_alumno_buscar_actualizar.Designer.vb">
+      <DependentUpon>Frm_alumno_buscar_actualizar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_alumno_buscar_actualizar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_Anulacion_Boletas.Designer.vb">
+      <DependentUpon>Frm_Anulacion_Boletas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_Anulacion_Boletas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_anulacion_matricula.Designer.vb">
+      <DependentUpon>frm_anulacion_matricula.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_anulacion_matricula.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_caja.Designer.vb">
+      <DependentUpon>Frm_caja.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_caja.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_cambio_contrasenia.Designer.vb">
+      <DependentUpon>frm_cambio_contrasenia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_cambio_contrasenia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_cd_separata.Designer.vb">
+      <DependentUpon>frm_cd_separata.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_cd_separata.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_impresora.Designer.vb">
+      <DependentUpon>frm_impresora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_impresora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ingreso_trabajadores.Designer.vb">
+      <DependentUpon>frm_ingreso_trabajadores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ingreso_trabajadores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_alumno_buscar.Designer.vb">
+      <DependentUpon>frm_alumno_buscar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_alumno_buscar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_cursos_ofertados.Designer.vb">
+      <DependentUpon>frm_cursos_ofertados.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_cursos_ofertados.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_curso_grupo.Designer.vb">
+      <DependentUpon>frm_curso_grupo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_curso_grupo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_curso_plan_est.Designer.vb">
+      <DependentUpon>frm_curso_plan_est.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_curso_plan_est.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ingreso_alumnos.Designer.vb">
+      <DependentUpon>frm_ingreso_alumnos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ingreso_alumnos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ingreso_profesores.Designer.vb">
+      <DependentUpon>frm_ingreso_profesores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ingreso_profesores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_curso.Designer.vb">
+      <DependentUpon>frm_curso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_curso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_matricula_examen.Designer.vb">
+      <DependentUpon>frm_matricula_examen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_matricula_examen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_matricula_imprimir.Designer.vb">
+      <DependentUpon>frm_matricula_imprimir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_matricula_imprimir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_matricula_mover.Designer.vb">
+      <DependentUpon>frm_matricula_mover.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_matricula_mover.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_mes.Designer.vb">
+      <DependentUpon>frm_mes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_mes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_modificar_alumno.Designer.vb">
+      <DependentUpon>frm_modificar_alumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_modificar_alumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_modificar_matricula_espera.Designer.vb">
+      <DependentUpon>frm_modificar_matricula_espera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_modificar_matricula_espera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_modificar_profesor.Designer.vb">
+      <DependentUpon>frm_modificar_profesor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_modificar_profesor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_modificar_trabajador.Designer.vb">
+      <DependentUpon>frm_modificar_trabajador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_modificar_trabajador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_notas.Designer.vb">
+      <DependentUpon>frm_notas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_notas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_otro_ciclo.Designer.vb">
+      <DependentUpon>frm_otro_ciclo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_otro_ciclo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_separata.Designer.vb">
+      <DependentUpon>frm_separata.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_separata.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_transferencia_matricula.Designer.vb">
+      <DependentUpon>frm_transferencia_matricula.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_transferencia_matricula.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_ventas_otros.Designer.vb">
+      <DependentUpon>frm_ventas_otros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_ventas_otros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Frm_venta_separatas.Designer.vb">
+      <DependentUpon>Frm_venta_separatas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Frm_venta_separatas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\frm_lista_alumnos_pagos.Designer.vb">
+      <DependentUpon>frm_lista_alumnos_pagos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\frm_lista_alumnos_pagos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\frm_lista_alumnos_separatas.Designer.vb">
+      <DependentUpon>frm_lista_alumnos_separatas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\frm_lista_alumnos_separatas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\frm_lista_alumno_asistencia.Designer.vb">
+      <DependentUpon>frm_lista_alumno_asistencia.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\frm_lista_alumno_asistencia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\frm_lista_matricula_separada.Designer.vb">
+      <DependentUpon>frm_lista_matricula_separada.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\frm_lista_matricula_separada.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\frm_lista_notas_alumno.Designer.vb">
+      <DependentUpon>frm_lista_notas_alumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\frm_lista_notas_alumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\Lista_alumnos_datos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Lista_alumnos_datos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\Lista_alumnos_notas.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Lista_alumnos_notas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\Lista_alumnos_notas.vb">
+      <DependentUpon>Lista_alumnos_notas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\lista_alumnos_pagos.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>lista_alumnos_pagos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\Lista_alumnos_separata.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Lista_alumnos_separata.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\lista_alumno_asistencia.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>lista_alumno_asistencia.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\Lista_matricula_separada.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Lista_matricula_separada.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\rpt_alumno_asistencia.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_alumno_asistencia.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Listas\rpt_alumno_notas.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_alumno_notas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Listas\rpt_lista_alumnos_separata.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_lista_alumnos_separata.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Listas\rpt_lista_alumno_asistencia.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_lista_alumno_asistencia.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Listas\rpt_lista_alumno_pagos.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_lista_alumno_pagos.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Listas\rpt_lista_curso_periodo.vb">
+      <DependentUpon>rpt_lista_curso_periodo.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Listas\lista_curso.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>lista_curso.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\lista_curso.vb">
+      <DependentUpon>lista_curso.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\rpt_lista_curso_horario.vb">
+      <DependentUpon>rpt_lista_curso_horario.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Listas\frm_lista_curso_horario.Designer.vb">
+      <DependentUpon>frm_lista_curso_horario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\frm_lista_curso_horario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\frm_lista_curso_periodo.Designer.vb">
+      <DependentUpon>frm_lista_curso_periodo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\frm_lista_curso_periodo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\rpt_lista_matricula_separada.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_lista_matricula_separada.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Listas\rpt_lista_profesor_periodo.vb">
+      <DependentUpon>rpt_lista_profesor_periodo.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Listas\frm_lista_profesor_periodo.Designer.vb">
+      <DependentUpon>frm_lista_profesor_periodo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\frm_lista_profesor_periodo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\rpt_lista_profesor_horario.vb">
+      <DependentUpon>rpt_lista_profesor_horario.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Listas\frm_lista_profesor_horario.Designer.vb">
+      <DependentUpon>frm_lista_profesor_horario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\frm_lista_profesor_horario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\rpt_lista_profesor_curso.vb">
+      <DependentUpon>rpt_lista_profesor_curso.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Listas\frm_lista_profesor_curso.Designer.vb">
+      <DependentUpon>frm_lista_profesor_curso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\frm_lista_profesor_curso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\lista_profesor.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>lista_profesor.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\rpt_lista_alumno_periodo.vb">
+      <DependentUpon>rpt_lista_alumno_periodo.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Listas\frm_lista_alumno_periodo.Designer.vb">
+      <DependentUpon>frm_lista_alumno_periodo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\frm_lista_alumno_periodo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\rpt_lista_alumno_horario.vb">
+      <DependentUpon>rpt_lista_alumno_horario.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Listas\frm_lista_alumno_horario.Designer.vb">
+      <DependentUpon>frm_lista_alumno_horario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\frm_lista_alumno_horario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\rpt_lista_alumno_curso.vb">
+      <DependentUpon>rpt_lista_alumno_curso.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Listas\frm_lista_alumno_profesor.Designer.vb">
+      <DependentUpon>frm_lista_alumno_profesor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\frm_lista_alumno_profesor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_matricula.Designer.vb">
+      <DependentUpon>frm_matricula.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_matricula.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_periodo_selected.Designer.vb">
+      <DependentUpon>frm_periodo_selected.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_periodo_selected.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_persona.Designer.vb">
+      <DependentUpon>frm_persona.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_persona.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_plan_estudio.Designer.vb">
+      <DependentUpon>frm_plan_estudio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_plan_estudio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_profesor_buscar.Designer.vb">
+      <DependentUpon>frm_profesor_buscar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_profesor_buscar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_tp_documento.Designer.vb">
+      <DependentUpon>frm_tp_documento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_aula.Designer.vb">
+      <DependentUpon>frm_aula.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_aula.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_tp_documento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_acerca_de.Designer.vb">
+      <DependentUpon>frm_acerca_de.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_acerca_de.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_horario.Designer.vb">
+      <DependentUpon>frm_horario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_horario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_login.Designer.vb">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_periodo.Designer.vb">
+      <DependentUpon>frm_periodo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_periodo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_principal.Designer.vb">
+      <DependentUpon>frm_principal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_tp_estado_alumno.Designer.vb">
+      <DependentUpon>frm_tp_estado_alumno.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_tp_estado_alumno.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_tp_rol.Designer.vb">
+      <DependentUpon>frm_tp_rol.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_tp_rol.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_tp_tramite.Designer.vb">
+      <DependentUpon>frm_tp_tramite.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_tp_tramite.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_tramite.Designer.vb">
+      <DependentUpon>frm_tramite.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_tramite.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_tramite_entregar.Designer.vb">
+      <DependentUpon>frm_tramite_entregar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_tramite_entregar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_tramite_lista.Designer.vb">
+      <DependentUpon>frm_tramite_lista.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_tramite_lista.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_view_cursos.Designer.vb">
+      <DependentUpon>frm_view_cursos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_view_cursos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\frm_lista_alumno_curso.Designer.vb">
+      <DependentUpon>frm_lista_alumno_curso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\frm_lista_alumno_curso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Global_variables.vb" />
+    <Compile Include="Modules\Conection.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Listas\frm_rpt_listas.Designer.vb">
+      <DependentUpon>frm_rpt_listas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\frm_rpt_listas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\lista_alumno.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>lista_alumno.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\lista_alumno.vb">
+      <DependentUpon>lista_alumno.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\rpt_lista_alumno_profesor.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_lista_alumno_profesor.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\frm_actualizar_matricula.resx">
+      <DependentUpon>frm_actualizar_matricula.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_alumno_buscar.resx">
+      <DependentUpon>frm_alumno_buscar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_alumno_buscar_actualizar.resx">
+      <DependentUpon>Frm_alumno_buscar_actualizar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_Anulacion_Boletas.resx">
+      <DependentUpon>Frm_Anulacion_Boletas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_anulacion_matricula.resx">
+      <DependentUpon>frm_anulacion_matricula.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_caja.resx">
+      <DependentUpon>Frm_caja.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_cambio_contrasenia.resx">
+      <DependentUpon>frm_cambio_contrasenia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_cd_separata.resx">
+      <DependentUpon>frm_cd_separata.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_cursos_ofertados.resx">
+      <DependentUpon>frm_cursos_ofertados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_curso_grupo.resx">
+      <DependentUpon>frm_curso_grupo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_curso_plan_est.resx">
+      <DependentUpon>frm_curso_plan_est.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_impresora.resx">
+      <DependentUpon>frm_impresora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ingreso_alumnos.resx">
+      <DependentUpon>frm_ingreso_alumnos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ingreso_profesores.resx">
+      <DependentUpon>frm_ingreso_profesores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_acerca_de.resx">
+      <DependentUpon>frm_acerca_de.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_aula.resx">
+      <DependentUpon>frm_aula.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_curso.resx">
+      <DependentUpon>frm_curso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ingreso_trabajadores.resx">
+      <DependentUpon>frm_ingreso_trabajadores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_matricula_examen.resx">
+      <DependentUpon>frm_matricula_examen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_matricula_imprimir.resx">
+      <DependentUpon>frm_matricula_imprimir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_matricula_mover.resx">
+      <DependentUpon>frm_matricula_mover.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_mes.resx">
+      <DependentUpon>frm_mes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_modificar_alumno.resx">
+      <DependentUpon>frm_modificar_alumno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_modificar_matricula_espera.resx">
+      <DependentUpon>frm_modificar_matricula_espera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_modificar_profesor.resx">
+      <DependentUpon>frm_modificar_profesor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_modificar_trabajador.resx">
+      <DependentUpon>frm_modificar_trabajador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_notas.resx">
+      <DependentUpon>frm_notas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_otro_ciclo.resx">
+      <DependentUpon>frm_otro_ciclo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_separata.resx">
+      <DependentUpon>frm_separata.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_transferencia_matricula.resx">
+      <DependentUpon>frm_transferencia_matricula.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_ventas_otros.resx">
+      <DependentUpon>frm_ventas_otros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Frm_venta_separatas.resx">
+      <DependentUpon>Frm_venta_separatas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frm_lista_alumnos_pagos.resx">
+      <DependentUpon>frm_lista_alumnos_pagos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frm_lista_alumnos_separatas.resx">
+      <DependentUpon>frm_lista_alumnos_separatas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frm_lista_alumno_asistencia.resx">
+      <DependentUpon>frm_lista_alumno_asistencia.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frm_lista_matricula_separada.resx">
+      <DependentUpon>frm_lista_matricula_separada.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frm_lista_notas_alumno.resx">
+      <DependentUpon>frm_lista_notas_alumno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\rpt_alumno_asistencia.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_alumno_asistencia.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\rpt_alumno_notas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_alumno_notas.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\rpt_lista_alumnos_separata.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_lista_alumnos_separata.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\rpt_lista_alumno_asistencia.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_lista_alumno_asistencia.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\rpt_lista_alumno_pagos.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_lista_alumno_pagos.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\rpt_lista_curso_periodo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_lista_curso_periodo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frm_lista_curso_periodo.resx">
+      <DependentUpon>frm_lista_curso_periodo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\rpt_lista_curso_horario.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_lista_curso_horario.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frm_lista_curso_horario.resx">
+      <DependentUpon>frm_lista_curso_horario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\rpt_lista_matricula_separada.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_lista_matricula_separada.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\rpt_lista_profesor_periodo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_lista_profesor_periodo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frm_lista_profesor_periodo.resx">
+      <DependentUpon>frm_lista_profesor_periodo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\rpt_lista_profesor_horario.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_lista_profesor_horario.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frm_lista_profesor_horario.resx">
+      <DependentUpon>frm_lista_profesor_horario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\rpt_lista_profesor_curso.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_lista_profesor_curso.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frm_lista_profesor_curso.resx">
+      <DependentUpon>frm_lista_profesor_curso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\rpt_lista_alumno_periodo.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_lista_alumno_periodo.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frm_lista_alumno_periodo.resx">
+      <DependentUpon>frm_lista_alumno_periodo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\rpt_lista_alumno_horario.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_lista_alumno_horario.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frm_lista_alumno_horario.resx">
+      <DependentUpon>frm_lista_alumno_horario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\rpt_lista_alumno_curso.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_lista_alumno_curso.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frm_lista_alumno_curso.resx">
+      <DependentUpon>frm_lista_alumno_curso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frm_lista_alumno_profesor.resx">
+      <DependentUpon>frm_lista_alumno_profesor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_matricula.resx">
+      <DependentUpon>frm_matricula.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_periodo_selected.resx">
+      <DependentUpon>frm_periodo_selected.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_persona.resx">
+      <DependentUpon>frm_persona.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_plan_estudio.resx">
+      <DependentUpon>frm_plan_estudio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_profesor_buscar.resx">
+      <DependentUpon>frm_profesor_buscar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_tp_documento.resx">
+      <DependentUpon>frm_tp_documento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_horario.resx">
+      <DependentUpon>frm_horario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_login.resx">
+      <DependentUpon>frm_login.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_periodo.resx">
+      <DependentUpon>frm_periodo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_principal.resx">
+      <DependentUpon>frm_principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_tp_estado_alumno.resx">
+      <DependentUpon>frm_tp_estado_alumno.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_tp_rol.resx">
+      <DependentUpon>frm_tp_rol.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_tp_tramite.resx">
+      <DependentUpon>frm_tp_tramite.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_tramite.resx">
+      <DependentUpon>frm_tramite.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_tramite_entregar.resx">
+      <DependentUpon>frm_tramite_entregar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_tramite_lista.resx">
+      <DependentUpon>frm_tramite_lista.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_view_cursos.resx">
+      <DependentUpon>frm_view_cursos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frm_rpt_listas.resx">
+      <DependentUpon>frm_rpt_listas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\rpt_lista_alumno_profesor.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_lista_alumno_profesor.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Listas\Lista_alumnos_datos.xsc">
+      <DependentUpon>Lista_alumnos_datos.xsd</DependentUpon>
+    </None>
+    <None Include="Listas\Lista_alumnos_datos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Lista_alumnos_datos.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Listas\Lista_alumnos_datos.xss">
+      <DependentUpon>Lista_alumnos_datos.xsd</DependentUpon>
+    </None>
+    <None Include="Listas\Lista_alumnos_notas.xsc">
+      <DependentUpon>Lista_alumnos_notas.xsd</DependentUpon>
+    </None>
+    <None Include="Listas\Lista_alumnos_notas.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Lista_alumnos_notas.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Listas\Lista_alumnos_notas.xss">
+      <DependentUpon>Lista_alumnos_notas.xsd</DependentUpon>
+    </None>
+    <None Include="Listas\lista_alumnos_pagos.xsc">
+      <DependentUpon>lista_alumnos_pagos.xsd</DependentUpon>
+    </None>
+    <None Include="Listas\lista_alumnos_pagos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>lista_alumnos_pagos.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Listas\lista_alumnos_pagos.xss">
+      <DependentUpon>lista_alumnos_pagos.xsd</DependentUpon>
+    </None>
+    <None Include="Listas\Lista_alumnos_separata.xsc">
+      <DependentUpon>Lista_alumnos_separata.xsd</DependentUpon>
+    </None>
+    <None Include="Listas\Lista_alumnos_separata.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Lista_alumnos_separata.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Listas\Lista_alumnos_separata.xss">
+      <DependentUpon>Lista_alumnos_separata.xsd</DependentUpon>
+    </None>
+    <None Include="Listas\lista_alumno_asistencia.xsc">
+      <DependentUpon>lista_alumno_asistencia.xsd</DependentUpon>
+    </None>
+    <None Include="Listas\lista_alumno_asistencia.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>lista_alumno_asistencia.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Listas\lista_alumno_asistencia.xss">
+      <DependentUpon>lista_alumno_asistencia.xsd</DependentUpon>
+    </None>
+    <None Include="Listas\Lista_matricula_separada.xsc">
+      <DependentUpon>Lista_matricula_separada.xsd</DependentUpon>
+    </None>
+    <None Include="Listas\Lista_matricula_separada.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Lista_matricula_separada.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Listas\Lista_matricula_separada.xss">
+      <DependentUpon>Lista_matricula_separada.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icons\-.png" />
+    <None Include="Icons\+.png" />
+    <None Include="Icons\Accept.png" />
+    <None Include="Icons\Delete.png" />
+    <None Include="Icons\Error.png" />
+    <None Include="Icons\Block.png" />
+    <Content Include="favicon.ico" />
+    <Content Include="Icons\Bar Chart.png" />
+    <Content Include="Icons\Book.png" />
+    <Content Include="Icons\icn_01.ico" />
+    <Content Include="Icons\icn_02.ico" />
+    <Content Include="Icons\icn_03.ico" />
+    <Content Include="Icons\icn_04.ico" />
+    <Content Include="Icons\icn_05.ico" />
+    <Content Include="Icons\icn_06.ico" />
+    <Content Include="Icons\icn_07.ico" />
+    <Content Include="Icons\icn_08.ico" />
+    <Content Include="Icons\icn_09.ico" />
+    <Content Include="Icons\icn_10.ico" />
+    <Content Include="Icons\icn_11.ico" />
+    <Content Include="Icons\icn_12.ico" />
+    <Content Include="Icons\icn_13.ico" />
+    <Content Include="Icons\icn_14.ico" />
+    <Content Include="Icons\icn_15.ico" />
+    <Content Include="Icons\icn_16.ico" />
+    <None Include="Icons\Save.png" />
+    <None Include="Icons\Pencil.png" />
+    <None Include="Listas\lista_curso.xsc">
+      <DependentUpon>lista_curso.xsd</DependentUpon>
+    </None>
+    <None Include="Listas\lista_curso.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>lista_curso.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Listas\lista_curso.xss">
+      <DependentUpon>lista_curso.xsd</DependentUpon>
+    </None>
+    <None Include="Listas\lista_profesor.xsc">
+      <DependentUpon>lista_profesor.xsd</DependentUpon>
+    </None>
+    <None Include="Listas\lista_profesor.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>lista_profesor.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Listas\lista_profesor.xss">
+      <DependentUpon>lista_profesor.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="Listas\lista_alumno.xsc">
+      <DependentUpon>lista_alumno.xsd</DependentUpon>
+    </None>
+    <None Include="Listas\lista_alumno.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>lista_alumno.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Listas\lista_alumno.xss">
+      <DependentUpon>lista_alumno.xsd</DependentUpon>
+    </None>
+    <None Include="SistemaAsdi_TemporaryKey.pfx" />
+    <None Include="Icons\left.png" />
+    <Content Include="Icons\logo.png" />
+    <Content Include="Icons\Mail.png" />
+    <Content Include="Icons\Pie Chart.png" />
+    <Content Include="Icons\Printer InkJet.png" />
+    <Content Include="Icons\Reload.png" />
+    <None Include="Icons\right.png" />
+    <Content Include="Icons\Search.png" />
+    <Content Include="Icons\Table.png" />
+    <Content Include="Icons\Tools.png" />
+    <Content Include="Imagens\Login.jpg" />
+    <Content Include="Imagens\logo.PNG" />
+    <None Include="Imagens\logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="BusinessObjects.CrystalReports.10.5">
+      <Visible>False</Visible>
+      <ProductName>Crystal Reports Basic para Visual Studio 2008 %28x86, x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LogicaNegocios\LogicaNegocios.vbproj">
+      <Project>{7FB23A0C-17A1-40E9-A6DA-C030C01EC84A}</Project>
+      <Name>LogicaNegocios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Negocio\Negocio.vbproj">
+      <Project>{91F2F159-FB7B-494B-9BA1-1B5B53C971E3}</Project>
+      <Name>Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\DataSources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="SistemaAsdi.XmlSerializers">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>Assembly</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

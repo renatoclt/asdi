@@ -1,0 +1,39 @@
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\bin\Release\Negocio.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\bin\Release\Negocio.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\bin\Release\Negocio.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Release\ResolveAssemblyReference.cache
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Release\Negocio.Resources.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Release\Negocio.vbproj.GenerateResource.Cache
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Release\Negocio.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Release\Negocio.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Release\Negocio.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\bin\Release\Negocio.dll
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\bin\Release\Negocio.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\bin\Release\Negocio.xml
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Release\Negocio.Resources.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Release\Negocio.vbproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Release\Negocio.dll
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Release\Negocio.xml
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\obj\Release\Negocio.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Negocio\bin\Release\MySql.Data.dll
+D:\ASDII\SistemaAsdi 2008\Negocio\bin\Release\Negocio.dll
+D:\ASDII\SistemaAsdi 2008\Negocio\bin\Release\Negocio.pdb
+D:\ASDII\SistemaAsdi 2008\Negocio\bin\Release\Negocio.xml
+D:\ASDII\SistemaAsdi 2008\Negocio\obj\Release\Negocio.Resources.resources
+D:\ASDII\SistemaAsdi 2008\Negocio\obj\Release\Negocio.dll
+D:\ASDII\SistemaAsdi 2008\Negocio\obj\Release\Negocio.xml
+D:\ASDII\SistemaAsdi 2008\Negocio\obj\Release\Negocio.pdb
+D:\ASDII\SistemaAsdi 2008\Negocio\obj\Release\Negocio.vbprojResolveAssemblyReference.cache
+D:\ASDII\SistemaAsdi 2008\Negocio\obj\Release\Negocio.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\SistemaAsdi1\Negocio\bin\Release\Negocio.dll
+C:\Users\HP\Documents\SistemaAsdi1\Negocio\bin\Release\Negocio.pdb
+C:\Users\HP\Documents\SistemaAsdi1\Negocio\bin\Release\Negocio.xml
+C:\Users\HP\Documents\SistemaAsdi1\Negocio\obj\Release\Negocio.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SistemaAsdi1\Negocio\obj\Release\Negocio.Resources.resources
+C:\Users\HP\Documents\SistemaAsdi1\Negocio\obj\Release\Negocio.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\SistemaAsdi1\Negocio\obj\Release\Negocio.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\SistemaAsdi1\Negocio\obj\Release\Negocio.vbproj.CopyComplete
+C:\Users\HP\Documents\SistemaAsdi1\Negocio\obj\Release\Negocio.dll
+C:\Users\HP\Documents\SistemaAsdi1\Negocio\obj\Release\Negocio.xml
+C:\Users\HP\Documents\SistemaAsdi1\Negocio\obj\Release\Negocio.pdb

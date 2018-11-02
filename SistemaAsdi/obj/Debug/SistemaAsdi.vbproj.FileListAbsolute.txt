@@ -1,0 +1,64 @@
+C:\Users\KRISTIAN\AppData\Local\Temporary Projects\SistemaAsdi\bin\Debug\SistemaAsdi.exe
+C:\Users\KRISTIAN\AppData\Local\Temporary Projects\SistemaAsdi\bin\Debug\SistemaAsdi.pdb
+C:\Users\KRISTIAN\AppData\Local\Temporary Projects\SistemaAsdi\bin\Debug\SistemaAsdi.xml
+C:\Users\KRISTIAN\AppData\Local\Temporary Projects\SistemaAsdi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KRISTIAN\AppData\Local\Temporary Projects\SistemaAsdi\obj\Debug\SistemaAsdi.Resources.resources
+C:\Users\KRISTIAN\AppData\Local\Temporary Projects\SistemaAsdi\obj\Debug\SistemaAsdi.vbproj.GenerateResource.Cache
+C:\Users\KRISTIAN\AppData\Local\Temporary Projects\SistemaAsdi\obj\Debug\SistemaAsdi.exe
+C:\Users\KRISTIAN\AppData\Local\Temporary Projects\SistemaAsdi\obj\Debug\SistemaAsdi.xml
+C:\Users\KRISTIAN\AppData\Local\Temporary Projects\SistemaAsdi\obj\Debug\SistemaAsdi.pdb
+C:\Users\KRISTIAN\AppData\Local\Temporary Projects\SistemaAsdi\obj\Debug\SistemaAsdi.frm_principal.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.exe
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Debug\SistemaAsdi.exe
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Debug\SistemaAsdi.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Debug\SistemaAsdi.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\ResolveAssemblyReference.cache
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_principal.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.Resources.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.vbproj.GenerateResource.Cache
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_Login.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_acerca_de.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_tp_documento.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Debug\SistemaAsdi.exe.config
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Debug\LogicaNegocios.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Debug\Negocio.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Debug\Datos.dll
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Debug\Negocio.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Debug\Negocio.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Debug\Datos.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Debug\Datos.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Debug\LogicaNegocios.pdb
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Debug\LogicaNegocios.xml
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_periodo.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_horario.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_aula.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Debug\SistemaAsdi.exe.manifest
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\bin\Debug\SistemaAsdi.application
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.exe.manifest
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.application
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_curso.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_plan_estudio.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_tp_tramite.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_tp_estado_alumno.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_tp_rol.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_persona_profesor.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_ingreso_profesores.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_ingreso_alumnos.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_curso_plan_est.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_periodo_selected.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_tramite.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_tramite_lista.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_tramite_entregar.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_view_cursos.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_cursos_ofertados.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_alumno_buscar.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_profesor_buscar.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_curso_grupo.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_matricula.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_rpt_listas.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_lista_alumno_curso.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_lista_alumno_profesor.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_lista_alumno_horario.resources
+D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Projects\SistemaAsdi\SistemaAsdi\obj\Debug\SistemaAsdi.frm_lista_alumno_periodo.resources

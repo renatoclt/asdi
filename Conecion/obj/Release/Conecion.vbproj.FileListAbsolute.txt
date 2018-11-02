@@ -1,0 +1,40 @@
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Conecion\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Conecion\obj\Release\Conecion.Resources.resources
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Conecion\obj\Release\Conecion.vbproj.GenerateResource.Cache
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Conecion\bin\Release\Conecion.dll
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Conecion\bin\Release\Conecion.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Conecion\bin\Release\Conecion.xml
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Conecion\obj\Release\Conecion.dll
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Conecion\obj\Release\Conecion.xml
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Conecion\obj\Release\Conecion.pdb
+C:\Users\Javier\Documents\Visual Studio 2008\Projects\SistemaAsdi\Conecion\bin\Release\MySql.Data.dll
+D:\ASDII\SistemaAsdi 2008\Conecion\bin\Release\Conecion.dll
+D:\ASDII\SistemaAsdi 2008\Conecion\bin\Release\Conecion.pdb
+D:\ASDII\SistemaAsdi 2008\Conecion\bin\Release\Conecion.xml
+D:\ASDII\SistemaAsdi 2008\Conecion\obj\Release\Conecion.Resources.resources
+D:\ASDII\SistemaAsdi 2008\Conecion\obj\Release\Conecion.dll
+D:\ASDII\SistemaAsdi 2008\Conecion\obj\Release\Conecion.xml
+D:\ASDII\SistemaAsdi 2008\Conecion\obj\Release\Conecion.pdb
+D:\ASDII\SistemaAsdi 2008\Conecion\obj\Release\Conecion.vbprojResolveAssemblyReference.cache
+D:\ASDII\SistemaAsdi 2008\Conecion\obj\Release\Conecion.vbproj.GenerateResource.Cache
+D:\ASDII\SistemaAsdi 2008\Conecion\bin\Release\MySql.Data.Entity.dll
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\Conecion\bin\Release\Conecion.dll
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\Conecion\bin\Release\Conecion.pdb
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\Conecion\bin\Release\Conecion.xml
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\Conecion\obj\Release\Conecion.vbprojResolveAssemblyReference.cache
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\Conecion\obj\Release\Conecion.Resources.resources
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\Conecion\obj\Release\Conecion.vbproj.GenerateResource.Cache
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\Conecion\obj\Release\Conecion.dll
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\Conecion\obj\Release\Conecion.xml
+D:\PROYECTOS 2014\ASDII\SistemaAsdi 2008\Conecion\obj\Release\Conecion.pdb
+C:\Users\HP\Documents\SistemaAsdi1\Conecion\bin\Release\Conecion.dll
+C:\Users\HP\Documents\SistemaAsdi1\Conecion\bin\Release\Conecion.pdb
+C:\Users\HP\Documents\SistemaAsdi1\Conecion\bin\Release\Conecion.xml
+C:\Users\HP\Documents\SistemaAsdi1\Conecion\obj\Release\Conecion.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SistemaAsdi1\Conecion\obj\Release\Conecion.Resources.resources
+C:\Users\HP\Documents\SistemaAsdi1\Conecion\obj\Release\Conecion.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\SistemaAsdi1\Conecion\obj\Release\Conecion.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\SistemaAsdi1\Conecion\obj\Release\Conecion.vbproj.CopyComplete
+C:\Users\HP\Documents\SistemaAsdi1\Conecion\obj\Release\Conecion.dll
+C:\Users\HP\Documents\SistemaAsdi1\Conecion\obj\Release\Conecion.xml
+C:\Users\HP\Documents\SistemaAsdi1\Conecion\obj\Release\Conecion.pdb
