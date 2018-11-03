@@ -3,11 +3,11 @@ Imports MySql.Data.MySqlClient
 Imports System.Configuration
 
 Public Class cls_conexion
-    Private Port As String
-    Private Server As String
-    Private Database As String
-    Private User As String
-    Private Password As String
+    Public Port As String
+    Public Server As String
+    Public Database As String
+    Public User As String
+    Public Password As String
 
     Public Sub New()
         Dim reg As New cls_registro

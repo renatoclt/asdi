@@ -2,13 +2,15 @@
 Imports System.Data.Common
 Imports System.Data
 Imports CrystalDecisions.CrystalReports.Engine
+Imports Conecion
 
 Public Class Conexion
     Public con As New MySqlConnection
     Public cmd As New MySqlCommand
+    Public conexion As New cls_conexion
     Public Sub conectar()
         Try
-            con.ConnectionString = "Database=asdi ;Data Source=localhost;User Id=root;Password=YES"
+            con.ConnectionString = "Database= " + conexion.Database + " ;Data Source=" + conexion.Server + ";User Id=" + conexion.User + ";Password=" + conexion.Password
             'ASDI
             'con.ConnectionString = "Database=asdi ;Data Source=192.168.1.43;User Id=asdi;Password=YES"
             'CODICE
@@ -49,7 +51,9 @@ Public Class Conexion
     Public Function GenerarCodigo(ByVal sql As String, ByVal a As String, ByVal b As String, ByVal c As String, ByVal d As String, ByVal e As String)
         Dim rpta As Integer = consulta(sql) + 1
         Dim r As String = ""
-        If rpta < 10 Then
+        If rpta > 0 Then
+            r = "000001"
+        ElseIf rpta < 10 Then
             r = a & rpta
         ElseIf rpta >= 10 And rpta < 100 Then
             r = b & rpta

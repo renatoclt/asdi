@@ -31,7 +31,7 @@
     </UpgradeBackupLocation>
     <OldToolsVersion>3.5</OldToolsVersion>
     <TargetFrameworkProfile />
-    <PublishUrl>D:\Usuarios\KRISTIAN\Documents\Visual Studio 2008\Publish\</PublishUrl>
+    <PublishUrl>C:\Users\HP\Documents\Sistema Comercial\sistemaComercial\Setup1\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -1129,6 +1129,10 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Conecion\Conecion.vbproj">
+      <Project>{326A4571-FF8C-4328-A7FB-D11966A24189}</Project>
+      <Name>Conecion</Name>
+    </ProjectReference>
     <ProjectReference Include="..\LogicaNegocios\LogicaNegocios.vbproj">
       <Project>{7FB23A0C-17A1-40E9-A6DA-C030C01EC84A}</Project>
       <Name>LogicaNegocios</Name>

@@ -38,3 +38,14 @@ C:\Users\HP\Documents\SistemaAsdi1\Conecion\obj\Release\Conecion.vbproj.CopyComp
 C:\Users\HP\Documents\SistemaAsdi1\Conecion\obj\Release\Conecion.dll
 C:\Users\HP\Documents\SistemaAsdi1\Conecion\obj\Release\Conecion.xml
 C:\Users\HP\Documents\SistemaAsdi1\Conecion\obj\Release\Conecion.pdb
+C:\Users\HP\Documents\SistemaAsdi\asdi\Conecion\bin\Release\Conecion.dll
+C:\Users\HP\Documents\SistemaAsdi\asdi\Conecion\bin\Release\Conecion.pdb
+C:\Users\HP\Documents\SistemaAsdi\asdi\Conecion\bin\Release\Conecion.xml
+C:\Users\HP\Documents\SistemaAsdi\asdi\Conecion\obj\Release\Conecion.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SistemaAsdi\asdi\Conecion\obj\Release\Conecion.Resources.resources
+C:\Users\HP\Documents\SistemaAsdi\asdi\Conecion\obj\Release\Conecion.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\SistemaAsdi\asdi\Conecion\obj\Release\Conecion.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\SistemaAsdi\asdi\Conecion\obj\Release\Conecion.vbproj.CopyComplete
+C:\Users\HP\Documents\SistemaAsdi\asdi\Conecion\obj\Release\Conecion.dll
+C:\Users\HP\Documents\SistemaAsdi\asdi\Conecion\obj\Release\Conecion.xml
+C:\Users\HP\Documents\SistemaAsdi\asdi\Conecion\obj\Release\Conecion.pdb

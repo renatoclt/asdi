@@ -141,8 +141,8 @@ Partial Class frm_acerca_de
         Me.TextBoxDescription.Size = New System.Drawing.Size(198, 84)
         Me.TextBoxDescription.TabIndex = 0
         Me.TextBoxDescription.TabStop = False
-        Me.TextBoxDescription.Text = "Description :" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Esta sistema académico, ha sido desarrollado para la entidad edu" & _
-            "cativa ASDI con la finalidad de registrar las matriculas."
+        Me.TextBoxDescription.Text = "Description :" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Esta sistema académico, ha sido desarrollado para la entidad edu" &
+    "cativa ASDI con la finalidad de registrar las matriculas."
         '
         'btn_aceptar
         '

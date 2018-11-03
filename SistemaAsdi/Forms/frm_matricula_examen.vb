@@ -32,6 +32,8 @@
     End Sub
 
     Private Sub btn_Guardar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_Guardar.Click
+        'obj.guardar_datos_matricula(id_alumno_ficha, Convert.ToInt32(cbx_periodo.SelectedValue), TxtObservaciones.Text, txt_nombre.Text, Convert.ToInt32(CbHorario.SelectedValue))
+
         If (MessageBox.Show("Desea imprimir el recibo", "Asdi", MessageBoxButtons.YesNo, MessageBoxIcon.Question) = DialogResult.Yes) Then
             obj.guardar_datos_matricula(id_alumno_ficha, Convert.ToInt32(cbx_periodo.SelectedValue), TxtObservaciones.Text, txt_nombre.Text, Convert.ToInt32(CbHorario.SelectedValue))
             PrintDialog1.Document = PrintDocument1
@@ -51,6 +53,7 @@
             'End If
             limpiar()
         End If
+
 
     End Sub
 
