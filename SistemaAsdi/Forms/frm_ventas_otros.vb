@@ -20,7 +20,6 @@
     Dim id_curso_grupo As Integer
     Dim observaciones As String
     Dim _precio As Double
-
     Private Sub btn_buscar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_buscar.Click
         If (Not frm_alumno_buscar_activo) Then
             frm_alumno_buscar_ = New Frm_alumno_buscar_actualizar
@@ -108,5 +107,10 @@
         e.Graphics.DrawString(id_persona, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 230)
         e.Graphics.DrawString("Usuario: " + nombre_usuario, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 150, y + 240)
 
+    End Sub
+
+    Private Sub frm_ventas_otros_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        txt_codigo_recibo.Text = obj.generar_codigo_correlativo()
+        _correlativo_boleta = txt_codigo_recibo.Text
     End Sub
 End Class
