@@ -245,7 +245,7 @@ Public Class cls_dt_persona
         comando.CommandType = CommandType.StoredProcedure
         comando.CommandText = "prc_login"
 
-        Dim id_persona As New MySqlParameter("?v_id_persona", MySql.Data.MySqlClient.MySqlDbType.Int16)
+        Dim id_persona As New MySqlParameter("?v_id_persona", MySql.Data.MySqlClient.MySqlDbType.Int64)
         id_persona.Value = obj_persona.Persona_Codigo
         id_persona.Direction = ParameterDirection.Output
         comando.Parameters.Add(id_persona)
