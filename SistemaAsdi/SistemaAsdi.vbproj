@@ -43,7 +43,7 @@
     <MapFileExtensions>true</MapFileExtensions>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
     <AutorunEnabled>true</AutorunEnabled>
-    <ApplicationRevision>30</ApplicationRevision>
+    <ApplicationRevision>32</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -117,6 +117,7 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
     <Compile Include="Clases ARP\Cls_Anulacion_Matricula.vb" />
     <Compile Include="Clases ARP\Cls_Caja.vb" />
     <Compile Include="Clases ARP\Cls_Horario.vb" />
@@ -1018,6 +1019,9 @@
     <None Include="Icons\Delete.png" />
     <None Include="Icons\Error.png" />
     <None Include="Icons\Block.png" />
+    <Content Include="Data\Data.txt" />
+    <Content Include="Data\Impresora.txt" />
+    <Content Include="Data\IP.txt" />
     <Content Include="favicon.ico" />
     <Content Include="Icons\Bar Chart.png" />
     <Content Include="Icons\Book.png" />
