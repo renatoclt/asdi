@@ -152,4 +152,9 @@
         RadioButton2.Checked = False
         separata_imprimir = 0
     End Sub
+
+    Private Sub Frm_venta_separatas_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        txt_codigo_recibo.Text = obj.generar_codigo_correlativo()
+        _correlativo_boleta = txt_codigo_recibo.Text
+    End Sub
 End Class

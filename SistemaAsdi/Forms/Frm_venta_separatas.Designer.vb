@@ -25,13 +25,13 @@ Partial Class Frm_venta_separatas
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Frm_venta_separatas))
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
         Me.txtnomcur = New System.Windows.Forms.TextBox()
+        Me.txt_ciclo = New System.Windows.Forms.TextBox()
         Me.btn_buscar = New System.Windows.Forms.Button()
         Me.Label9 = New System.Windows.Forms.Label()
         Me.txt_nombre = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.txt_codigo_recibo = New System.Windows.Forms.TextBox()
-        Me.txt_ciclo = New System.Windows.Forms.TextBox()
         Me.btn_Guardar = New System.Windows.Forms.Button()
         Me.GroupBox3 = New System.Windows.Forms.GroupBox()
         Me.RadioButton3 = New System.Windows.Forms.RadioButton()
@@ -69,6 +69,16 @@ Partial Class Frm_venta_separatas
         Me.txtnomcur.Size = New System.Drawing.Size(117, 22)
         Me.txtnomcur.TabIndex = 66
         Me.txtnomcur.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
+        '
+        'txt_ciclo
+        '
+        Me.txt_ciclo.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txt_ciclo.Location = New System.Drawing.Point(170, 98)
+        Me.txt_ciclo.Name = "txt_ciclo"
+        Me.txt_ciclo.ReadOnly = True
+        Me.txt_ciclo.Size = New System.Drawing.Size(1, 22)
+        Me.txt_ciclo.TabIndex = 49
+        Me.txt_ciclo.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'btn_buscar
         '
@@ -127,16 +137,6 @@ Partial Class Frm_venta_separatas
         Me.txt_codigo_recibo.Size = New System.Drawing.Size(117, 22)
         Me.txt_codigo_recibo.TabIndex = 40
         Me.txt_codigo_recibo.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
-        '
-        'txt_ciclo
-        '
-        Me.txt_ciclo.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txt_ciclo.Location = New System.Drawing.Point(170, 98)
-        Me.txt_ciclo.Name = "txt_ciclo"
-        Me.txt_ciclo.ReadOnly = True
-        Me.txt_ciclo.Size = New System.Drawing.Size(1, 22)
-        Me.txt_ciclo.TabIndex = 49
-        Me.txt_ciclo.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'btn_Guardar
         '
