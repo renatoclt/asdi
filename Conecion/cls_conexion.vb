@@ -16,7 +16,7 @@ Public Class cls_conexion
             Server = "192.168.1.112"
             Database = "asdi" 'reg.leer("database")
             User = "root"
-            Password = "yes"
+            Password = "YES"
 
             'Port = "3306"
             'Server = "localhost"
