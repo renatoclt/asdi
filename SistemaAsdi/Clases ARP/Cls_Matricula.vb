@@ -167,7 +167,9 @@ Public Class Cls_Matricula
         Return rpta
     End Function
     Public Function generar_codigo_correlativo()
-        Dim sql As String = "SELECT MAX( cast(nro_boleta as Integer)) FROM `boleta`"
+        'TODO comentar la siguiente linea al generar el instalador integer for xamp 
+        'Dim sql As String = "SELECT MAX( cast(nro_boleta as Integer)) FROM `boleta`"
+        Dim sql As String = "SELECT MAX( cast(nro_boleta as Signed})) FROM `boleta`"
         Dim a As String = "00000"
         Dim b As String = "0000"
         Dim c As String = "000"
