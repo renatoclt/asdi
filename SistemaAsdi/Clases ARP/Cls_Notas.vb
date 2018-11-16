@@ -101,7 +101,7 @@ Public Class Cls_Notas
 
     Public Sub Mostrar_Alumnos_asistencia(ByVal a As DataGridView, ByVal b As String, ByVal c As String, ByVal d As String, ByVal e As String)
         'Dim sql As String = "select c.curso, v.horario, v.id_alumno_ficha, v.nombre, vp.id_profesor_ficha, vp.nombre from view_alumno_profesor v, curso_ofertado co, curso c, curso_grupo cg, view_profesores vp, matricula m , horario h where m.id_alumno_ficha = v.id_alumno_ficha and m.id_curso_grupo= cg.id_curso_grupo and co.id_curso_ofertado = cg.id_curso_ofertado and cg.id_profesor_ficha = vp.id_profesor_ficha and cg.id_horario = h.id_horario and cg.id_profesor_ficha = v.id_profesor_ficha and co.id_periodo = m.id_periodo and c.id_curso = co.id_curso and co.id_periodo = '" & b & "'  and cg.id_horario = '" & c & "' and v.id_profesor_ficha = '" & d & "' and c.id_curso = '" & e & "' group by v.id_alumno_ficha"
-        Dim sql As String = "select Curso, Horario, Id_alumno, Nombre_alumno, Id_profesor, Nombre_profesor, Aula from view_alumno_asistencia where id_periodo = '" & b & "'  and id_horario = '" & c & "' and id_profesor_ficha = '" & d & "' and id_curso = '" & e & "' group by nombre_alumno order by horario DESC"
+        Dim sql As String = "select Curso, Horario, Id_alumno, Nombre_alumno, Id_profesor, Nombre_profesor, Aula from view_alumno_asistencia where id_periodo = '" & b & "'  and id_horario = '" & c & "' and id_profesor = '" & d & "' and id_curso = '" & e & "' group by nombre_alumno order by horario DESC"
         obj.VerRegistro(a, sql)
         a.Columns(0).Width = 150
         a.Columns(1).Width = 100
