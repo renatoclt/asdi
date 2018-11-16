@@ -51,7 +51,7 @@ Public Class Conexion
     Public Function GenerarCodigo(ByVal sql As String, ByVal a As String, ByVal b As String, ByVal c As String, ByVal d As String, ByVal e As String)
         Dim rpta As Integer = consulta(sql) + 1
         Dim r As String = ""
-        If rpta > 0 Then
+        If rpta <= 0 Then
             r = "000001"
         ElseIf rpta < 10 Then
             r = a & rpta
