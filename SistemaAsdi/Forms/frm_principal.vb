@@ -716,7 +716,7 @@
     End Sub
 
     Private Sub VentaOtrosToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles men_venta_otros.Click
-
+        frm_ventas_otros.Show()
     End Sub
 
     Private Sub men_adm_reportes_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles men_adm_reportes.Click
