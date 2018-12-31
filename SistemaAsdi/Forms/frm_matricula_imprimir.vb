@@ -31,61 +31,61 @@
         Try
             obj.guardar_datos_recibo(id_matricula_imp, Convert.ToDouble(TxtMonto.Text), Convert.ToDouble(TxtDescuento.Text), Convert.ToDouble(LblImportePagar.Text), id_curso_imp, separata_imprimir, Convert.ToString(txt_nombre.Text), id_curso_grupo, TxtObservaciones.Text, id_alumno_ficha)
             Me.Close()
-            'If (MessageBox.Show("Desea imprimir el recibo", "Asdi", MessageBoxButtons.YesNo, MessageBoxIcon.Question) = DialogResult.Yes) Then
-            '    obj.guardar_datos_recibo(id_matricula_imp, Convert.ToDouble(TxtMonto.Text), Convert.ToDouble(TxtDescuento.Text), Convert.ToDouble(LblImportePagar.Text), id_curso_imp, separata_imprimir, Convert.ToString(txt_nombre.Text), id_curso_grupo, TxtObservaciones.Text, id_alumno_ficha)
-            '    PrintDialog1.Document = PrintDocument1
-            '    Dim TamaoPersonal As Printing.PaperSize
-            '    Dim Ancho As Short
-            '    Dim Alto As Short
-            '    Ancho = 500
-            '    Alto = 400
-            '    TamaoPersonal = New Printing.PaperSize("A4", Ancho, Alto)
+            If (MessageBox.Show("Desea imprimir el recibo", "Asdi", MessageBoxButtons.YesNo, MessageBoxIcon.Question) = DialogResult.Yes) Then
+                obj.guardar_datos_recibo(id_matricula_imp, Convert.ToDouble(TxtMonto.Text), Convert.ToDouble(TxtDescuento.Text), Convert.ToDouble(LblImportePagar.Text), id_curso_imp, separata_imprimir, Convert.ToString(txt_nombre.Text), id_curso_grupo, TxtObservaciones.Text, id_alumno_ficha)
+                PrintDialog1.Document = PrintDocument1
+                Dim TamaoPersonal As Printing.PaperSize
+                Dim Ancho As Short
+                Dim Alto As Short
+                Ancho = 500
+                Alto = 400
+                TamaoPersonal = New Printing.PaperSize("A4", Ancho, Alto)
 
 
-            '    'If PrintDialog1.ShowDialog = Windows.Forms.DialogResult.OK Then
-            '    'PrintDocument1.DefaultPageSettings.PaperSize.RawKind = 9
-            '    PrintDocument1.DefaultPageSettings.PaperSize = TamaoPersonal
-            '    'PrintDocument1.DefaultPageSettings.Landscape = True
-            '    PrintDocument1.PrinterSettings.PrinterName = _impresora_a_usar
-            '    PrintDocument1.Print()
-            '    'End If
-            '    If RadioButton1.Checked = True Then
-            '        monto = Convert.ToString(Format(_precio_separata, "##0.00"))
-            '        separata_imprimir = 1
-            '        obj.guardar_datos_recibo(id_matricula_imp, Convert.ToDouble(monto), Convert.ToDouble(0), Convert.ToDouble(monto), id_curso_imp, separata_imprimir, Convert.ToString(txt_nombre.Text), id_curso_grupo, observaciones, id_alumno_ficha)
-            '        PrintDialog1.Document = PrintDocument1
-            '        'PrintDocument1.DefaultPageSettings.PaperSize.RawKind = 9
-            '        PrintDocument1.DefaultPageSettings.PaperSize = TamaoPersonal
-            '        'PrintDocument1.DefaultPageSettings.Landscape = True
-            '        'PrintPreview.ShowDialog()
-            '        PrintDocument1.PrinterSettings.PrinterName = _impresora_a_usar
-            '        PrintDocument1.Print()
-            '    ElseIf RadioButton2.Checked = True Then
-            '        monto = Convert.ToString(Format(_precio_cd + _precio_separata, "##0.00"))
-            '        separata_imprimir = 2
-            '        obj.guardar_datos_recibo(id_matricula_imp, Convert.ToDouble(monto), Convert.ToDouble(0), Convert.ToDouble(monto), id_curso_imp, separata_imprimir, Convert.ToString(txt_nombre.Text), id_curso_grupo, observaciones, id_alumno_ficha)
-            '        PrintDialog1.Document = PrintDocument1
-            '        'PrintDocument1.DefaultPageSettings.PaperSize.RawKind = 9
-            '        PrintDocument1.DefaultPageSettings.PaperSize = TamaoPersonal
-            '        'PrintDocument1.DefaultPageSettings.Landscape = True
-            '        'PrintPreview.ShowDialog()
-            '        PrintDocument1.PrinterSettings.PrinterName = _impresora_a_usar
-            '        PrintDocument1.Print()
-            '    ElseIf RadioButton3.Checked = True Then
-            '        monto = Convert.ToString(Format(_precio_cd, "##0.00"))
-            '        separata_imprimir = 3
-            '        obj.guardar_datos_recibo(id_matricula_imp, Convert.ToDouble(monto), Convert.ToDouble(0), Convert.ToDouble(monto), id_curso_imp, separata_imprimir, Convert.ToString(txt_nombre.Text), id_curso_grupo, observaciones, id_alumno_ficha)
-            '        PrintDialog1.Document = PrintDocument1
-            '        'PrintDocument1.DefaultPageSettings.PaperSize.RawKind = 9
-            '        PrintDocument1.DefaultPageSettings.PaperSize = TamaoPersonal
-            '        'PrintDocument1.DefaultPageSettings.Landscape = True
-            '        'PrintPreview.ShowDialog()
-            '        PrintDocument1.PrinterSettings.PrinterName = _impresora_a_usar
-            '        PrintDocument1.Print()
-            '    End If
-            '    limpiar()
-            '    Me.Close()
-            'End If
+                'If PrintDialog1.ShowDialog = Windows.Forms.DialogResult.OK Then
+                'PrintDocument1.DefaultPageSettings.PaperSize.RawKind = 9
+                PrintDocument1.DefaultPageSettings.PaperSize = TamaoPersonal
+                'PrintDocument1.DefaultPageSettings.Landscape = True
+                PrintDocument1.PrinterSettings.PrinterName = _impresora_a_usar
+                PrintDocument1.Print()
+                'End If
+                If RadioButton1.Checked = True Then
+                    monto = Convert.ToString(Format(_precio_separata, "##0.00"))
+                    separata_imprimir = 1
+                    obj.guardar_datos_recibo(id_matricula_imp, Convert.ToDouble(monto), Convert.ToDouble(0), Convert.ToDouble(monto), id_curso_imp, separata_imprimir, Convert.ToString(txt_nombre.Text), id_curso_grupo, observaciones, id_alumno_ficha)
+                    PrintDialog1.Document = PrintDocument1
+                    'PrintDocument1.DefaultPageSettings.PaperSize.RawKind = 9
+                    PrintDocument1.DefaultPageSettings.PaperSize = TamaoPersonal
+                    'PrintDocument1.DefaultPageSettings.Landscape = True
+                    'PrintPreview.ShowDialog()
+                    PrintDocument1.PrinterSettings.PrinterName = _impresora_a_usar
+                    PrintDocument1.Print()
+                ElseIf RadioButton2.Checked = True Then
+                    monto = Convert.ToString(Format(_precio_cd + _precio_separata, "##0.00"))
+                    separata_imprimir = 2
+                    obj.guardar_datos_recibo(id_matricula_imp, Convert.ToDouble(monto), Convert.ToDouble(0), Convert.ToDouble(monto), id_curso_imp, separata_imprimir, Convert.ToString(txt_nombre.Text), id_curso_grupo, observaciones, id_alumno_ficha)
+                    PrintDialog1.Document = PrintDocument1
+                    'PrintDocument1.DefaultPageSettings.PaperSize.RawKind = 9
+                    PrintDocument1.DefaultPageSettings.PaperSize = TamaoPersonal
+                    'PrintDocument1.DefaultPageSettings.Landscape = True
+                    'PrintPreview.ShowDialog()
+                    PrintDocument1.PrinterSettings.PrinterName = _impresora_a_usar
+                    PrintDocument1.Print()
+                ElseIf RadioButton3.Checked = True Then
+                    monto = Convert.ToString(Format(_precio_cd, "##0.00"))
+                    separata_imprimir = 3
+                    obj.guardar_datos_recibo(id_matricula_imp, Convert.ToDouble(monto), Convert.ToDouble(0), Convert.ToDouble(monto), id_curso_imp, separata_imprimir, Convert.ToString(txt_nombre.Text), id_curso_grupo, observaciones, id_alumno_ficha)
+                    PrintDialog1.Document = PrintDocument1
+                    'PrintDocument1.DefaultPageSettings.PaperSize.RawKind = 9
+                    PrintDocument1.DefaultPageSettings.PaperSize = TamaoPersonal
+                    'PrintDocument1.DefaultPageSettings.Landscape = True
+                    'PrintPreview.ShowDialog()
+                    PrintDocument1.PrinterSettings.PrinterName = _impresora_a_usar
+                    PrintDocument1.Print()
+                End If
+                limpiar()
+                Me.Close()
+            End If
         Catch ex As Exception
             MsgBox(ex.Message)
         End Try
@@ -99,34 +99,34 @@
         e.Graphics.DrawString(txt_nombre.Text, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 60)
         If separata_imprimir = 1 Then
             e.Graphics.DrawString("SEPARATA", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 110)
-            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 350, y + 40)
-            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 360, y + 170)
-            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 360, y + 230)
-            e.Graphics.DrawString("S/. 0.00", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 360, y + 190)
+            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 40)
+            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 170)
+            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 230)
+            e.Graphics.DrawString("S/. 0.00", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 190)
             e.Graphics.DrawString(Convert.ToString(obj.Letras(monto)) + " /100 ", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 80)
         ElseIf separata_imprimir = 2 Then
             e.Graphics.DrawString("SEPARATA + CD", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 110)
-            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 350, y + 40)
-            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 360, y + 170)
-            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 360, y + 230)
-            e.Graphics.DrawString("S/. 0.00", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 360, y + 190)
+            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 40)
+            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 170)
+            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 230)
+            e.Graphics.DrawString("S/. 0.00", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 190)
             e.Graphics.DrawString(Convert.ToString(obj.Letras(monto)) + " /100 ", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 80)
         ElseIf separata_imprimir = 3 Then
             e.Graphics.DrawString("CD", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 110)
-            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 350, y + 40)
-            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 360, y + 170)
-            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 360, y + 230)
-            e.Graphics.DrawString("S/. 0.00", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 360, y + 190)
+            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 40)
+            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 170)
+            e.Graphics.DrawString("S/. " + monto, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 230)
+            e.Graphics.DrawString("S/. 0.00", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 190)
             e.Graphics.DrawString(Convert.ToString(obj.Letras(monto)) + " /100 ", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 80)
         Else
             e.Graphics.DrawString("MENSUALIDAD", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 110)
-            e.Graphics.DrawString(String.Format("{0:C}", Convert.ToDouble(LblImportePagar.Text)), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 350, y + 40)
-            e.Graphics.DrawString(Convert.ToString(String.Format("{0:C}", Convert.ToDouble(TxtMonto.Text))), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 360, y + 170)
-            e.Graphics.DrawString(Convert.ToString(String.Format("{0:C}", Convert.ToDouble(LblImportePagar.Text))), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 360, y + 230)
-            e.Graphics.DrawString(Convert.ToString(String.Format("{0:C}", Convert.ToDouble(TxtDescuento.Text))), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 360, y + 190)
+            e.Graphics.DrawString(String.Format("{0:C}", Convert.ToDouble(LblImportePagar.Text)), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 40)
+            e.Graphics.DrawString(Convert.ToString(String.Format("{0:C}", Convert.ToDouble(TxtMonto.Text))), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 170)
+            e.Graphics.DrawString(Convert.ToString(String.Format("{0:C}", Convert.ToDouble(LblImportePagar.Text))), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 230)
+            e.Graphics.DrawString(Convert.ToString(String.Format("{0:C}", Convert.ToDouble(TxtDescuento.Text))), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 190)
             e.Graphics.DrawString(Convert.ToString(obj.Letras(LblImportePagar.Text)) + " /100 ", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 80)
         End If
-        e.Graphics.DrawString(Convert.ToString(Now.ToString("yyyy-MM-dd")), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 350, y + 80)
+        e.Graphics.DrawString(Convert.ToString(Now.ToString("yyyy-MM-dd")), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 325, y + 80)
         e.Graphics.DrawString(nom_curso, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 140)
         e.Graphics.DrawString(nom_grupo, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 155)
         e.Graphics.DrawString(Convert.ToString(Txt_seccion.Text), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 170)

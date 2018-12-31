@@ -48,6 +48,8 @@ Partial Class frm_matricula_examen
         Me.PrintDocument1 = New System.Drawing.Printing.PrintDocument()
         Me.TxtObservaciones = New System.Windows.Forms.TextBox()
         Me.Label7 = New System.Windows.Forms.Label()
+        Me.Label9 = New System.Windows.Forms.Label()
+        Me.txtDescuento = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'cbx_periodo
@@ -63,7 +65,7 @@ Partial Class frm_matricula_examen
         'btn_Cancelar
         '
         Me.btn_Cancelar.Image = Global.SistemaAsdi.My.Resources.Resources._Error
-        Me.btn_Cancelar.Location = New System.Drawing.Point(479, 254)
+        Me.btn_Cancelar.Location = New System.Drawing.Point(479, 292)
         Me.btn_Cancelar.Name = "btn_Cancelar"
         Me.btn_Cancelar.Size = New System.Drawing.Size(62, 57)
         Me.btn_Cancelar.TabIndex = 66
@@ -72,7 +74,7 @@ Partial Class frm_matricula_examen
         'btn_Guardar
         '
         Me.btn_Guardar.Image = Global.SistemaAsdi.My.Resources.Resources.Save
-        Me.btn_Guardar.Location = New System.Drawing.Point(413, 254)
+        Me.btn_Guardar.Location = New System.Drawing.Point(413, 292)
         Me.btn_Guardar.Name = "btn_Guardar"
         Me.btn_Guardar.Size = New System.Drawing.Size(60, 57)
         Me.btn_Guardar.TabIndex = 65
@@ -268,7 +270,7 @@ Partial Class frm_matricula_examen
         '
         'TxtObservaciones
         '
-        Me.TxtObservaciones.Location = New System.Drawing.Point(12, 272)
+        Me.TxtObservaciones.Location = New System.Drawing.Point(12, 310)
         Me.TxtObservaciones.Multiline = True
         Me.TxtObservaciones.Name = "TxtObservaciones"
         Me.TxtObservaciones.Size = New System.Drawing.Size(249, 39)
@@ -278,17 +280,38 @@ Partial Class frm_matricula_examen
         '
         Me.Label7.AutoSize = True
         Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(13, 240)
+        Me.Label7.Location = New System.Drawing.Point(13, 278)
         Me.Label7.Name = "Label7"
         Me.Label7.Size = New System.Drawing.Size(154, 18)
         Me.Label7.TabIndex = 80
         Me.Label7.Text = "OBSERVACIONES:"
         '
+        'Label9
+        '
+        Me.Label9.AutoSize = True
+        Me.Label9.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Label9.Location = New System.Drawing.Point(270, 242)
+        Me.Label9.Name = "Label9"
+        Me.Label9.Size = New System.Drawing.Size(112, 18)
+        Me.Label9.TabIndex = 81
+        Me.Label9.Text = "DESCUENTO"
+        '
+        'txtDescuento
+        '
+        Me.txtDescuento.Location = New System.Drawing.Point(388, 242)
+        Me.txtDescuento.Multiline = True
+        Me.txtDescuento.Name = "txtDescuento"
+        Me.txtDescuento.Size = New System.Drawing.Size(153, 18)
+        Me.txtDescuento.TabIndex = 82
+        Me.txtDescuento.Text = "0"
+        '
         'frm_matricula_examen
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(550, 331)
+        Me.ClientSize = New System.Drawing.Size(550, 361)
+        Me.Controls.Add(Me.txtDescuento)
+        Me.Controls.Add(Me.Label9)
         Me.Controls.Add(Me.TxtObservaciones)
         Me.Controls.Add(Me.Label7)
         Me.Controls.Add(Me.CbHorario)
@@ -346,4 +369,6 @@ Partial Class frm_matricula_examen
     Friend WithEvents PrintDocument1 As System.Drawing.Printing.PrintDocument
     Friend WithEvents TxtObservaciones As System.Windows.Forms.TextBox
     Friend WithEvents Label7 As System.Windows.Forms.Label
+    Friend WithEvents Label9 As Label
+    Friend WithEvents txtDescuento As TextBox
 End Class

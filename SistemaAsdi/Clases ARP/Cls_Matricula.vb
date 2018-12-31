@@ -1,7 +1,7 @@
 ﻿Imports MySql.Data.MySqlClient
 Public Class Cls_Matricula
     Dim obj As New Conexion
-    Public Sub guardar_datos_matricula(ByVal a As Integer, ByVal b As Integer, ByVal c As String, ByVal d As String, ByVal e As Integer)
+    Public Sub guardar_datos_matricula(ByVal a As Integer, ByVal b As Integer, ByVal c As String, ByVal d As String, ByVal e As Integer, ByVal f As Double)
         Try
             Dim _id_alumno_ficha As Integer = a
             Dim _id_curso_grupo As Integer = Nothing
@@ -13,6 +13,7 @@ Public Class Cls_Matricula
             Dim _anulada As Double = 0
             Dim _observaciones As String = c
             Dim _id_horario As Integer = e
+            Dim descuento_e As Double = f
             Dim _separata_m As String = "N"
 
             Dim sql As String = "Insert into matricula( id_alumno_ficha, id_curso_grupo, promedio_final, id_periodo, fecha_creacion, aprobo,reservada, anulada, observaciones, id_horario, separata) values('" & _id_alumno_ficha & "','" & _id_curso_grupo & "','" & _promedio_final & "','" & _id_periodo & "', '" & _fecha_creacion & "', '" & _aprobo & "', '" & _reserva & "', '" & _anulada & "','" & _observaciones & "','" & _id_horario & "','" & _separata_m & "' )"
@@ -21,8 +22,8 @@ Public Class Cls_Matricula
             Dim _id_matricula As Integer = obj.consulta(sql)
             sql = "SELECT costo FROM horario where id_horario = '" & _id_horario & "'"
             Dim _costo As Double = Convert.ToDouble(obj.consulta(sql))
-            Dim _monto As Double = _costo
-            Dim _descuento As Double = 0
+            Dim _monto As Double = _costo - descuento_e
+            Dim _descuento As Double = descuento_e
             Dim _total As Double = _costo
             Dim _fecha_creacion_2 As String = Now.ToString("yyyy-MM-dd")
             Dim _hora As String = Now.ToString("HH:mm:ss")

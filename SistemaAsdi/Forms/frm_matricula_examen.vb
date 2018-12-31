@@ -6,6 +6,13 @@
     Dim num_telefono As String
     Dim id_persona As String
     Dim id_plan_estudio As String
+    Dim descuento As String
+    Dim DescuentoD As Double
+    Dim costoTotal As String
+    Dim CostoTotalD As Double
+    Dim costo As String
+    Dim total As String
+    Dim totalD As Double
     Private Sub btn_buscar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_buscar.Click
         frm_alumno_buscar_activo = False
         'frm_alumno_buscar.ShowDialog()
@@ -33,9 +40,11 @@
 
     Private Sub btn_Guardar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_Guardar.Click
         'obj.guardar_datos_matricula(id_alumno_ficha, Convert.ToInt32(cbx_periodo.SelectedValue), TxtObservaciones.Text, txt_nombre.Text, Convert.ToInt32(CbHorario.SelectedValue))
-
         If (MessageBox.Show("Desea imprimir el recibo", "Asdi", MessageBoxButtons.YesNo, MessageBoxIcon.Question) = DialogResult.Yes) Then
-            obj.guardar_datos_matricula(id_alumno_ficha, Convert.ToInt32(cbx_periodo.SelectedValue), TxtObservaciones.Text, txt_nombre.Text, Convert.ToInt32(CbHorario.SelectedValue))
+            DescuentoD = Convert.ToDouble(txtDescuento.Text)
+            obj.guardar_datos_matricula(id_alumno_ficha, Convert.ToInt32(cbx_periodo.SelectedValue), TxtObservaciones.Text, txt_nombre.Text, Convert.ToInt32(CbHorario.SelectedValue), DescuentoD)
+            costo = obj.consulta_costo_horario(Convert.ToString(CbHorario.SelectedValue))
+            CostoTotalD = Convert.ToDouble(costo) - DescuentoD
             PrintDialog1.Document = PrintDocument1
             Dim TamaoPersonal As Printing.PaperSize
             Dim Ancho As Short
@@ -73,7 +82,8 @@
         Dim num As String = _correlativo_boleta
         Dim x As Integer = recibo_x
         Dim y As Integer = recibo_y
-        Dim costo As String = obj.consulta_costo_horario(Convert.ToString(CbHorario.SelectedValue))
+
+
         num_telefono = Convert.ToString(obj.consulta_num_telefono(Convert.ToString(id_alumno_ficha)))
         id_persona = Convert.ToString(obj.consulta_id_persona(Convert.ToString(id_alumno_ficha)))
 
@@ -81,21 +91,26 @@
         e.Graphics.DrawString(txt_nombre.Text, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 60)
 
         e.Graphics.DrawString("MENSUALIDAD", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 110)
-        e.Graphics.DrawString(String.Format("{0:C}", Convert.ToDouble(costo)), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 350, y + 40)
-        e.Graphics.DrawString(Convert.ToString(String.Format("{0:C}", Convert.ToDouble(costo))), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 360, y + 170)
-        e.Graphics.DrawString(Convert.ToString(String.Format("{0:C}", Convert.ToDouble(costo))), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 360, y + 230)
-        e.Graphics.DrawString(Convert.ToString(String.Format("{0:C}", Convert.ToDouble("0"))), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 360, y + 190)
+        e.Graphics.DrawString(String.Format("{0:C}", CostoTotalD), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 40)
+        e.Graphics.DrawString(Convert.ToString(String.Format("{0:C}", Convert.ToDouble(costo))), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 170)
+        e.Graphics.DrawString(Convert.ToString(String.Format("{0:C}", CostoTotalD)), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 230)
+        e.Graphics.DrawString(Convert.ToString(String.Format("{0:C}", DescuentoD)), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 335, y + 190)
 
-        e.Graphics.DrawString(Convert.ToString(obj.Letras(Convert.ToString(costo))) + " /100 ", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 80)
-        e.Graphics.DrawString(Convert.ToString(Now.ToString("yyyy-MM-dd")), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 350, y + 80)
+        e.Graphics.DrawString(Convert.ToString(obj.Letras(Convert.ToString(CostoTotalD))) + " /100 ", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 80)
+        e.Graphics.DrawString(Convert.ToString(Now.ToString("yyyy-MM-dd")), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 325, y + 80)
         'e.Graphics.DrawString(nom_curso, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, 50, 190)
         'e.Graphics.DrawString(nom_grupo, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, 50, 205)
         'e.Graphics.DrawString(Convert.ToString(Txt_seccion.Text), New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, 50, 220)
         e.Graphics.DrawString(CbHorario.Text, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 185)
         e.Graphics.DrawString("-----Obs.", New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 200)
+        e.Graphics.DrawString(TxtObservaciones.Text, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x+110, y + 200)
         e.Graphics.DrawString(num_telefono, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 215)
         e.Graphics.DrawString(id_persona, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x, y + 230)
         e.Graphics.DrawString("Usuario: " + nombre_usuario, New Font("Calibri", 10, FontStyle.Regular), Brushes.Black, x + 150, y + 240)
+
+    End Sub
+
+    Private Sub Label9_Click(sender As Object, e As EventArgs) Handles Label9.Click
 
     End Sub
 End Class
