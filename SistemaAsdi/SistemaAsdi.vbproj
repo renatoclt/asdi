@@ -44,7 +44,7 @@
     <MinimumRequiredVersion>1.0.0.33</MinimumRequiredVersion>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
     <AutorunEnabled>true</AutorunEnabled>
-    <ApplicationRevision>48</ApplicationRevision>
+    <ApplicationRevision>49</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -300,6 +300,12 @@
       <DependentUpon>frm_ventas_otros.vb</DependentUpon>
     </Compile>
     <Compile Include="Forms\frm_ventas_otros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frm_venta_concepto.Designer.vb">
+      <DependentUpon>frm_venta_concepto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frm_venta_concepto.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\Frm_venta_separatas.Designer.vb">
@@ -768,6 +774,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\frm_ventas_otros.resx">
       <DependentUpon>frm_ventas_otros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frm_venta_concepto.resx">
+      <DependentUpon>frm_venta_concepto.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\Frm_venta_separatas.resx">
       <DependentUpon>Frm_venta_separatas.vb</DependentUpon>

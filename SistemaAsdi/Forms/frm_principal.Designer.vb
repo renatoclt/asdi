@@ -110,6 +110,7 @@ Partial Class frm_principal
         Me.lbl_estado_periodo = New System.Windows.Forms.ToolStripStatusLabel()
         Me.lbl_usuario_ = New System.Windows.Forms.ToolStripStatusLabel()
         Me.lbl_usuario_estado = New System.Windows.Forms.ToolStripStatusLabel()
+        Me.VentaConceptosToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.men_principal.SuspendLayout()
         Me.br_estado.SuspendLayout()
         Me.SuspendLayout()
@@ -196,54 +197,54 @@ Partial Class frm_principal
         'men_reg_alumnos
         '
         Me.men_reg_alumnos.Name = "men_reg_alumnos"
-        Me.men_reg_alumnos.Size = New System.Drawing.Size(367, 26)
+        Me.men_reg_alumnos.Size = New System.Drawing.Size(366, 26)
         Me.men_reg_alumnos.Text = "&Alumnos"
         '
         'men_reg_docentes
         '
         Me.men_reg_docentes.Name = "men_reg_docentes"
-        Me.men_reg_docentes.Size = New System.Drawing.Size(367, 26)
+        Me.men_reg_docentes.Size = New System.Drawing.Size(366, 26)
         Me.men_reg_docentes.Text = "&Profesores"
         '
         'ToolStripSeparator8
         '
         Me.ToolStripSeparator8.Name = "ToolStripSeparator8"
-        Me.ToolStripSeparator8.Size = New System.Drawing.Size(364, 6)
+        Me.ToolStripSeparator8.Size = New System.Drawing.Size(363, 6)
         '
         'men_modif_fichalum
         '
         Me.men_modif_fichalum.Name = "men_modif_fichalum"
-        Me.men_modif_fichalum.Size = New System.Drawing.Size(367, 26)
+        Me.men_modif_fichalum.Size = New System.Drawing.Size(366, 26)
         Me.men_modif_fichalum.Text = "Modificar ficha del Alumno"
         '
         'men_modif_fichaprofe
         '
         Me.men_modif_fichaprofe.Name = "men_modif_fichaprofe"
-        Me.men_modif_fichaprofe.Size = New System.Drawing.Size(367, 26)
+        Me.men_modif_fichaprofe.Size = New System.Drawing.Size(366, 26)
         Me.men_modif_fichaprofe.Text = "Modificar ficha del Profesor"
         '
         'ToolStripSeparator9
         '
         Me.ToolStripSeparator9.Name = "ToolStripSeparator9"
-        Me.ToolStripSeparator9.Size = New System.Drawing.Size(364, 6)
+        Me.ToolStripSeparator9.Size = New System.Drawing.Size(363, 6)
         '
         'men_conf_aulas
         '
         Me.men_conf_aulas.Name = "men_conf_aulas"
-        Me.men_conf_aulas.Size = New System.Drawing.Size(367, 26)
+        Me.men_conf_aulas.Size = New System.Drawing.Size(366, 26)
         Me.men_conf_aulas.Text = "&Aulas"
         '
         'men_conf_cursos
         '
         Me.men_conf_cursos.Name = "men_conf_cursos"
-        Me.men_conf_cursos.Size = New System.Drawing.Size(367, 26)
+        Me.men_conf_cursos.Size = New System.Drawing.Size(366, 26)
         Me.men_conf_cursos.Text = "&Ciclos"
         '
         'men_conf_cur_plan
         '
         Me.men_conf_cur_plan.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.men_cur_plan_agregar, Me.men_cur_plan_editar})
         Me.men_conf_cur_plan.Name = "men_conf_cur_plan"
-        Me.men_conf_cur_plan.Size = New System.Drawing.Size(367, 26)
+        Me.men_conf_cur_plan.Size = New System.Drawing.Size(366, 26)
         Me.men_conf_cur_plan.Text = "C&iclos de Planes de Estudios"
         '
         'men_cur_plan_agregar
@@ -261,36 +262,36 @@ Partial Class frm_principal
         'ToolStripSeparator2
         '
         Me.ToolStripSeparator2.Name = "ToolStripSeparator2"
-        Me.ToolStripSeparator2.Size = New System.Drawing.Size(364, 6)
+        Me.ToolStripSeparator2.Size = New System.Drawing.Size(363, 6)
         '
         'men_modif_matric
         '
         Me.men_modif_matric.Name = "men_modif_matric"
-        Me.men_modif_matric.Size = New System.Drawing.Size(367, 26)
+        Me.men_modif_matric.Size = New System.Drawing.Size(366, 26)
         Me.men_modif_matric.Text = "Separar Matrícula"
         '
         'men_modificar_matricula
         '
         Me.men_modificar_matricula.Name = "men_modificar_matricula"
-        Me.men_modificar_matricula.Size = New System.Drawing.Size(367, 26)
+        Me.men_modificar_matricula.Size = New System.Drawing.Size(366, 26)
         Me.men_modificar_matricula.Text = "Modificar Matricula"
         '
         'men_modif_mover
         '
         Me.men_modif_mover.Name = "men_modif_mover"
-        Me.men_modif_mover.Size = New System.Drawing.Size(367, 26)
+        Me.men_modif_mover.Size = New System.Drawing.Size(366, 26)
         Me.men_modif_mover.Text = "Cambio de Turno / Horario"
         '
         'men_anulacion_mat
         '
         Me.men_anulacion_mat.Name = "men_anulacion_mat"
-        Me.men_anulacion_mat.Size = New System.Drawing.Size(367, 26)
+        Me.men_anulacion_mat.Size = New System.Drawing.Size(366, 26)
         Me.men_anulacion_mat.Text = "Anulacion / Desmatricular / Transferencia"
         '
         'men_mat_espera
         '
         Me.men_mat_espera.Name = "men_mat_espera"
-        Me.men_mat_espera.Size = New System.Drawing.Size(367, 26)
+        Me.men_mat_espera.Size = New System.Drawing.Size(366, 26)
         Me.men_mat_espera.Text = "Modificar Matricula Pendiente"
         '
         'men_princ_matricular
@@ -307,39 +308,39 @@ Partial Class frm_principal
         '
         'men_princ_tramites
         '
-        Me.men_princ_tramites.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.men_tram_entregar, Me.men_tram_list, Me.men_tram_reg, Me.men_venta_sep, Me.men_venta_otros})
+        Me.men_princ_tramites.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.men_tram_entregar, Me.men_tram_list, Me.men_tram_reg, Me.men_venta_sep, Me.men_venta_otros, Me.VentaConceptosToolStripMenuItem})
         Me.men_princ_tramites.Name = "men_princ_tramites"
-        Me.men_princ_tramites.Size = New System.Drawing.Size(82, 25)
+        Me.men_princ_tramites.Size = New System.Drawing.Size(81, 25)
         Me.men_princ_tramites.Text = "T&rámites"
         '
         'men_tram_entregar
         '
         Me.men_tram_entregar.Name = "men_tram_entregar"
-        Me.men_tram_entregar.Size = New System.Drawing.Size(200, 26)
+        Me.men_tram_entregar.Size = New System.Drawing.Size(199, 26)
         Me.men_tram_entregar.Text = "&Entregar Trámite"
         '
         'men_tram_list
         '
         Me.men_tram_list.Name = "men_tram_list"
-        Me.men_tram_list.Size = New System.Drawing.Size(200, 26)
+        Me.men_tram_list.Size = New System.Drawing.Size(199, 26)
         Me.men_tram_list.Text = "&Lista de Trámites"
         '
         'men_tram_reg
         '
         Me.men_tram_reg.Name = "men_tram_reg"
-        Me.men_tram_reg.Size = New System.Drawing.Size(200, 26)
+        Me.men_tram_reg.Size = New System.Drawing.Size(199, 26)
         Me.men_tram_reg.Text = "&Registrar Trámite"
         '
         'men_venta_sep
         '
         Me.men_venta_sep.Name = "men_venta_sep"
-        Me.men_venta_sep.Size = New System.Drawing.Size(200, 26)
+        Me.men_venta_sep.Size = New System.Drawing.Size(199, 26)
         Me.men_venta_sep.Text = "&Venta Separatas"
         '
         'men_venta_otros
         '
         Me.men_venta_otros.Name = "men_venta_otros"
-        Me.men_venta_otros.Size = New System.Drawing.Size(200, 26)
+        Me.men_venta_otros.Size = New System.Drawing.Size(199, 26)
         Me.men_venta_otros.Text = "Venta Otros"
         '
         'men_princ_listas
@@ -353,105 +354,105 @@ Partial Class frm_principal
         '
         Me.men_list_alumnos.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.men_list_alum_curso, Me.men_list_alum_docente, Me.men_list_alum_horario, Me.men_list_alum_periodo})
         Me.men_list_alumnos.Name = "men_list_alumnos"
-        Me.men_list_alumnos.Size = New System.Drawing.Size(289, 26)
+        Me.men_list_alumnos.Size = New System.Drawing.Size(288, 26)
         Me.men_list_alumnos.Text = "&Reporte de Alumnos"
         '
         'men_list_alum_curso
         '
         Me.men_list_alum_curso.Name = "men_list_alum_curso"
-        Me.men_list_alum_curso.Size = New System.Drawing.Size(182, 26)
+        Me.men_list_alum_curso.Size = New System.Drawing.Size(181, 26)
         Me.men_list_alum_curso.Text = "Por Ciclo"
         '
         'men_list_alum_docente
         '
         Me.men_list_alum_docente.Name = "men_list_alum_docente"
-        Me.men_list_alum_docente.Size = New System.Drawing.Size(182, 26)
+        Me.men_list_alum_docente.Size = New System.Drawing.Size(181, 26)
         Me.men_list_alum_docente.Text = "Por Profesores"
         '
         'men_list_alum_horario
         '
         Me.men_list_alum_horario.Name = "men_list_alum_horario"
-        Me.men_list_alum_horario.Size = New System.Drawing.Size(182, 26)
+        Me.men_list_alum_horario.Size = New System.Drawing.Size(181, 26)
         Me.men_list_alum_horario.Text = "Por Horario"
         '
         'men_list_alum_periodo
         '
         Me.men_list_alum_periodo.Name = "men_list_alum_periodo"
-        Me.men_list_alum_periodo.Size = New System.Drawing.Size(182, 26)
+        Me.men_list_alum_periodo.Size = New System.Drawing.Size(181, 26)
         Me.men_list_alum_periodo.Text = "Por Mes"
         '
         'men_list_cur
         '
         Me.men_list_cur.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.men_list_cur_hora, Me.men_list_cur_per})
         Me.men_list_cur.Name = "men_list_cur"
-        Me.men_list_cur.Size = New System.Drawing.Size(289, 26)
+        Me.men_list_cur.Size = New System.Drawing.Size(288, 26)
         Me.men_list_cur.Text = "R&eporte de Ciclos"
         '
         'men_list_cur_hora
         '
         Me.men_list_cur_hora.Name = "men_list_cur_hora"
-        Me.men_list_cur_hora.Size = New System.Drawing.Size(180, 26)
+        Me.men_list_cur_hora.Size = New System.Drawing.Size(178, 26)
         Me.men_list_cur_hora.Text = "Por Horario"
         '
         'men_list_cur_per
         '
         Me.men_list_cur_per.Name = "men_list_cur_per"
-        Me.men_list_cur_per.Size = New System.Drawing.Size(180, 26)
+        Me.men_list_cur_per.Size = New System.Drawing.Size(178, 26)
         Me.men_list_cur_per.Text = "Total por Ciclo"
         '
         'men_list_doce
         '
         Me.men_list_doce.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.men_list_doce_cur, Me.men_list_doce_horario, Me.men_list_doce_periodo})
         Me.men_list_doce.Name = "men_list_doce"
-        Me.men_list_doce.Size = New System.Drawing.Size(289, 26)
+        Me.men_list_doce.Size = New System.Drawing.Size(288, 26)
         Me.men_list_doce.Text = "Re&porte de Profesores"
         '
         'men_list_doce_cur
         '
         Me.men_list_doce_cur.Name = "men_list_doce_cur"
-        Me.men_list_doce_cur.Size = New System.Drawing.Size(161, 26)
+        Me.men_list_doce_cur.Size = New System.Drawing.Size(160, 26)
         Me.men_list_doce_cur.Text = "Por Ciclo"
         '
         'men_list_doce_horario
         '
         Me.men_list_doce_horario.Name = "men_list_doce_horario"
-        Me.men_list_doce_horario.Size = New System.Drawing.Size(161, 26)
+        Me.men_list_doce_horario.Size = New System.Drawing.Size(160, 26)
         Me.men_list_doce_horario.Text = "Por Horario"
         '
         'men_list_doce_periodo
         '
         Me.men_list_doce_periodo.Name = "men_list_doce_periodo"
-        Me.men_list_doce_periodo.Size = New System.Drawing.Size(161, 26)
+        Me.men_list_doce_periodo.Size = New System.Drawing.Size(160, 26)
         Me.men_list_doce_periodo.Text = "Por Mes"
         '
         'ListaNotasToolStripMenuItem
         '
         Me.ListaNotasToolStripMenuItem.Name = "ListaNotasToolStripMenuItem"
-        Me.ListaNotasToolStripMenuItem.Size = New System.Drawing.Size(289, 26)
+        Me.ListaNotasToolStripMenuItem.Size = New System.Drawing.Size(288, 26)
         Me.ListaNotasToolStripMenuItem.Text = "&Libreta Notas"
         '
         'ListaDePagosPorAlumnoToolStripMenuItem
         '
         Me.ListaDePagosPorAlumnoToolStripMenuItem.Name = "ListaDePagosPorAlumnoToolStripMenuItem"
-        Me.ListaDePagosPorAlumnoToolStripMenuItem.Size = New System.Drawing.Size(289, 26)
+        Me.ListaDePagosPorAlumnoToolStripMenuItem.Size = New System.Drawing.Size(288, 26)
         Me.ListaDePagosPorAlumnoToolStripMenuItem.Text = "Repo&rte de Pagos por Alumno"
         '
         'ListaMatriculasSeparadasToolStripMenuItem
         '
         Me.ListaMatriculasSeparadasToolStripMenuItem.Name = "ListaMatriculasSeparadasToolStripMenuItem"
-        Me.ListaMatriculasSeparadasToolStripMenuItem.Size = New System.Drawing.Size(289, 26)
+        Me.ListaMatriculasSeparadasToolStripMenuItem.Size = New System.Drawing.Size(288, 26)
         Me.ListaMatriculasSeparadasToolStripMenuItem.Text = "Repor&te Matriculas Separadas"
         '
         'ListaSeparatasVendidasToolStripMenuItem
         '
         Me.ListaSeparatasVendidasToolStripMenuItem.Name = "ListaSeparatasVendidasToolStripMenuItem"
-        Me.ListaSeparatasVendidasToolStripMenuItem.Size = New System.Drawing.Size(289, 26)
+        Me.ListaSeparatasVendidasToolStripMenuItem.Size = New System.Drawing.Size(288, 26)
         Me.ListaSeparatasVendidasToolStripMenuItem.Text = "Report&e Separatas Vendidas"
         '
         'ListaAsistenciaToolStripMenuItem
         '
         Me.ListaAsistenciaToolStripMenuItem.Name = "ListaAsistenciaToolStripMenuItem"
-        Me.ListaAsistenciaToolStripMenuItem.Size = New System.Drawing.Size(289, 26)
+        Me.ListaAsistenciaToolStripMenuItem.Size = New System.Drawing.Size(288, 26)
         Me.ListaAsistenciaToolStripMenuItem.Text = "Reporte&s Asistencia"
         '
         'men_princ_registrar
@@ -653,6 +654,12 @@ Partial Class frm_principal
         Me.lbl_usuario_estado.Size = New System.Drawing.Size(66, 17)
         Me.lbl_usuario_estado.Text = "Sin Usuario"
         '
+        'VentaConceptosToolStripMenuItem
+        '
+        Me.VentaConceptosToolStripMenuItem.Name = "VentaConceptosToolStripMenuItem"
+        Me.VentaConceptosToolStripMenuItem.Size = New System.Drawing.Size(199, 26)
+        Me.VentaConceptosToolStripMenuItem.Text = "Venta Conceptos"
+        '
         'frm_principal
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -765,5 +772,5 @@ Partial Class frm_principal
     Friend WithEvents ToolStripSeparator9 As System.Windows.Forms.ToolStripSeparator
     Friend WithEvents men_anulacion_mat As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents men_mat_espera As System.Windows.Forms.ToolStripMenuItem
-
+    Friend WithEvents VentaConceptosToolStripMenuItem As ToolStripMenuItem
 End Class

@@ -17,6 +17,7 @@ Public Class frm_alumno_buscar
     Private frm_tramite_ As frm_tramite
     Private frm_matricula_examen As frm_matricula_examen
     Private frm_transferencia_matricula As frm_transferencia_matricula
+    Private frm_venta_concepto As frm_venta_concepto
 
     Private form_buscar_alumno As String
 
@@ -60,6 +61,11 @@ Public Class frm_alumno_buscar
 
     Public Sub Formnulario_Tramitar(ByVal frm As frm_tramite, ByVal form_buscar_alumno_ As String)
         frm_tramite_ = frm
+        form_buscar_alumno = form_buscar_alumno_
+    End Sub
+
+    Public Sub Formnulario_Venta_Concepto(ByVal frm As frm_venta_concepto, ByVal form_buscar_alumno_ As String)
+        frm_venta_concepto = frm
         form_buscar_alumno = form_buscar_alumno_
     End Sub
 
@@ -109,6 +115,8 @@ Public Class frm_alumno_buscar
             Case "frm_transferencia_matricula"
                 frm_transferencia_matricula.frm_alumno_buscar_activo = False
                 frm_transferencia_matricula.Informacion(obj_ln_view_alumno.Obtener_View_Alumnos(id_alumno_ficha))
+            Case "frm_venta_concepto"
+                frm_venta_concepto.Informacion(obj_ln_view_alumno.Obtener_View_Alumnos(id_alumno_ficha))
         End Select
         Me.Close()
     End Sub

@@ -619,3 +619,4 @@ C:\Users\HP\Documents\SistemaAsdi\asdi\SistemaAsdi\obj\Release\SistemaAsdi.exe
 C:\Users\HP\Documents\SistemaAsdi\asdi\SistemaAsdi\obj\Release\SistemaAsdi.xml
 C:\Users\HP\Documents\SistemaAsdi\asdi\SistemaAsdi\obj\Release\SistemaAsdi.pdb
 C:\Users\HP\Documents\SistemaAsdi\asdi\SistemaAsdi\bin\Release\System.Web.Services.dll
+C:\Users\HP\Documents\SistemaAsdi\asdi\SistemaAsdi\obj\Release\SistemaAsdi.frm_venta_concepto.resources

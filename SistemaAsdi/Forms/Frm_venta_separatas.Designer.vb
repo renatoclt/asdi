@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Frm_venta_separatas
     Inherits System.Windows.Forms.Form
 
     'Form reemplaza a Dispose para limpiar la lista de componentes.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class Frm_venta_separatas
     'NOTA: el Diseñador de Windows Forms necesita el siguiente procedimiento
     'Se puede modificar usando el Diseñador de Windows Forms.  
     'No lo modifique con el editor de código.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Frm_venta_separatas))
         Me.GroupBox1 = New System.Windows.Forms.GroupBox()
@@ -142,7 +142,7 @@ Partial Class Frm_venta_separatas
         '
         Me.btn_Guardar.BackgroundImage = CType(resources.GetObject("btn_Guardar.BackgroundImage"), System.Drawing.Image)
         Me.btn_Guardar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.btn_Guardar.Location = New System.Drawing.Point(387, 257)
+        Me.btn_Guardar.Location = New System.Drawing.Point(387, 265)
         Me.btn_Guardar.Name = "btn_Guardar"
         Me.btn_Guardar.Size = New System.Drawing.Size(170, 57)
         Me.btn_Guardar.TabIndex = 45
@@ -156,7 +156,7 @@ Partial Class Frm_venta_separatas
         Me.GroupBox3.Controls.Add(Me.RadioButton1)
         Me.GroupBox3.Location = New System.Drawing.Point(22, 182)
         Me.GroupBox3.Name = "GroupBox3"
-        Me.GroupBox3.Size = New System.Drawing.Size(535, 57)
+        Me.GroupBox3.Size = New System.Drawing.Size(535, 65)
         Me.GroupBox3.TabIndex = 46
         Me.GroupBox3.TabStop = False
         '
@@ -208,7 +208,7 @@ Partial Class Frm_venta_separatas
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(582, 332)
+        Me.ClientSize = New System.Drawing.Size(582, 350)
         Me.Controls.Add(Me.GroupBox3)
         Me.Controls.Add(Me.btn_Guardar)
         Me.Controls.Add(Me.GroupBox1)

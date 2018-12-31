@@ -157,4 +157,24 @@
         txt_codigo_recibo.Text = obj.generar_codigo_correlativo()
         _correlativo_boleta = txt_codigo_recibo.Text
     End Sub
+
+    Private Sub RadioButton4_CheckedChanged(sender As Object, e As EventArgs)
+
+    End Sub
+
+    Private Sub Label2_Click(sender As Object, e As EventArgs)
+
+    End Sub
+
+    Private Sub RadioButton3_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton3.CheckedChanged
+
+    End Sub
+
+    Private Sub TextBox2_TextChanged(sender As Object, e As EventArgs)
+
+    End Sub
+
+    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs)
+
+    End Sub
 End Class

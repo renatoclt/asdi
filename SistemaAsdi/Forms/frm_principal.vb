@@ -38,6 +38,7 @@
     Private frm_modificar_trabajador_ As frm_modificar_trabajador
     Private frm_matricula_mover_ As frm_matricula_mover
     Private frm_separata_ As frm_separata
+    Public frm_venta_concepto_ As frm_venta_concepto
 
 
 
@@ -46,6 +47,7 @@
     Public frm_horario_activo As Boolean = False
     Public frm_acerca_de_activo As Boolean = False
     Public frm_login_activo As Boolean = False
+    Public frm_ventas_concepto_activo As Boolean = False
     Public frm_cambio_contrasenia_activo As Boolean = False
     Public frm_periodo_activo As Boolean = False
     Public frm_tp_documento_activo As Boolean = False
@@ -833,5 +835,17 @@
 
     Private Sub men_mat_espera_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles men_mat_espera.Click
         frm_modificar_matricula_espera.Show()
+    End Sub
+
+    Private Sub VentaConceptosToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles VentaConceptosToolStripMenuItem.Click
+        If (Not frm_ventas_concepto_activo) Then
+            frm_venta_concepto_ = New frm_venta_concepto
+            frm_venta_concepto_.Show()
+            frm_venta_concepto_.MdiParent = Me
+            frm_ventas_concepto_activo = True
+        Else
+            frm_venta_concepto_.Activate()
+        End If
+
     End Sub
 End Class

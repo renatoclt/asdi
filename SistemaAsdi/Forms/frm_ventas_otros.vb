@@ -24,7 +24,7 @@
         If (Not frm_alumno_buscar_activo) Then
             frm_alumno_buscar_ = New Frm_alumno_buscar_actualizar
             frm_alumno_buscar_.Show()
-            frm_alumno_buscar_.Formnulario_Ventas(Me, "frm_ventas")
+            'frm_alumno_buscar_.Formnulario_Ventas(Me, "frm_ventas")
             frm_alumno_buscar_activo = True
         Else
             frm_alumno_buscar_.Activate()
