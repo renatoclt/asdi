@@ -1,4 +1,4 @@
-SET `boleta` = CONCAT(
+UPDATE BOLETA SET NRO_BOLETA = CONCAT(
                    REPLACE(
                       LEFT(Nro_Boleta,1), '0', '-'),      
-                      SUBSTRING(Nro_Boleta, 2, CHAR_LENGTH(Nro_Boleta)
+                      SUBSTRING(Nro_Boleta, 2, CHAR_LENGTH(Nro_Boleta)))
