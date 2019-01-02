@@ -14,6 +14,7 @@
     Dim observaciones As String
     Private Sub frm_matricula_imprimir_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         'Me.Opacity = 0.93
+        txt_codigo_recibo.Text = obj.generar_codigo_correlativo()
         TxtMonto.Focus()
         LblImportePagar.Text = TxtMonto.Text
     End Sub
@@ -29,7 +30,7 @@
 
     Private Sub btn_Guardar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btn_Guardar.Click
         Try
-            obj.guardar_datos_recibo(id_matricula_imp, Convert.ToDouble(TxtMonto.Text), Convert.ToDouble(TxtDescuento.Text), Convert.ToDouble(LblImportePagar.Text), id_curso_imp, separata_imprimir, Convert.ToString(txt_nombre.Text), id_curso_grupo, TxtObservaciones.Text, id_alumno_ficha)
+            'obj.guardar_datos_recibo(id_matricula_imp, Convert.ToDouble(TxtMonto.Text), Convert.ToDouble(TxtDescuento.Text), Convert.ToDouble(LblImportePagar.Text), id_curso_imp, separata_imprimir, Convert.ToString(txt_nombre.Text), id_curso_grupo, TxtObservaciones.Text, id_alumno_ficha)
             Me.Close()
             If (MessageBox.Show("Desea imprimir el recibo", "Asdi", MessageBoxButtons.YesNo, MessageBoxIcon.Question) = DialogResult.Yes) Then
                 obj.guardar_datos_recibo(id_matricula_imp, Convert.ToDouble(TxtMonto.Text), Convert.ToDouble(TxtDescuento.Text), Convert.ToDouble(LblImportePagar.Text), id_curso_imp, separata_imprimir, Convert.ToString(txt_nombre.Text), id_curso_grupo, TxtObservaciones.Text, id_alumno_ficha)
