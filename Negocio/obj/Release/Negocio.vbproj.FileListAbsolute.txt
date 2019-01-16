@@ -37,3 +37,14 @@ C:\Users\HP\Documents\SistemaAsdi1\Negocio\obj\Release\Negocio.vbproj.CopyComple
 C:\Users\HP\Documents\SistemaAsdi1\Negocio\obj\Release\Negocio.dll
 C:\Users\HP\Documents\SistemaAsdi1\Negocio\obj\Release\Negocio.xml
 C:\Users\HP\Documents\SistemaAsdi1\Negocio\obj\Release\Negocio.pdb
+C:\Users\HP\Documents\SistemaAsdi\asdi\Negocio\bin\Release\Negocio.dll
+C:\Users\HP\Documents\SistemaAsdi\asdi\Negocio\bin\Release\Negocio.pdb
+C:\Users\HP\Documents\SistemaAsdi\asdi\Negocio\bin\Release\Negocio.xml
+C:\Users\HP\Documents\SistemaAsdi\asdi\Negocio\obj\Release\Negocio.vbprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\SistemaAsdi\asdi\Negocio\obj\Release\Negocio.Resources.resources
+C:\Users\HP\Documents\SistemaAsdi\asdi\Negocio\obj\Release\Negocio.vbproj.GenerateResource.cache
+C:\Users\HP\Documents\SistemaAsdi\asdi\Negocio\obj\Release\Negocio.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\SistemaAsdi\asdi\Negocio\obj\Release\Negocio.vbproj.CopyComplete
+C:\Users\HP\Documents\SistemaAsdi\asdi\Negocio\obj\Release\Negocio.dll
+C:\Users\HP\Documents\SistemaAsdi\asdi\Negocio\obj\Release\Negocio.xml
+C:\Users\HP\Documents\SistemaAsdi\asdi\Negocio\obj\Release\Negocio.pdb

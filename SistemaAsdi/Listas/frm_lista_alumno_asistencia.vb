@@ -33,6 +33,8 @@ Public Class frm_lista_alumno_asistencia
         Dim dt As New DataTable
         Dim rptDoc As ReportDocument
         Dim numCols As Integer
+        Dim mes As String
+        Dim fechaPeriodo As DateTime
         With dt
             .Columns.Add("curso")
             .Columns.Add("horario")
@@ -52,9 +54,14 @@ Public Class frm_lista_alumno_asistencia
             Next
             dt.Rows.Add(row)
         Next
-
         rptDoc = New rpt_alumno_asistencia
         rptDoc.SetDataSource(dt)
+        mes = cbx_periodo.Text
+        mes = mes.Substring(mes.Length - 2)
+        fechaPeriodo = New DateTime("2000", mes, "01")
+        mes = MonthName(Month(fechaPeriodo), False)
+        mes = mes.ToUpper
+        rptDoc.SetParameterValue("NombreMes", mes)
 
         If (Not frm_rpt_listas_activo) Then
             frm_rpt_listas_ = New frm_rpt_listas

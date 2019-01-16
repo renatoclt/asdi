@@ -302,71 +302,6 @@ Update Order Option
 Used to sort self-referenced table's rows
 </summary>
 </member>
-<member name="T:SistemaAsdi.lista_alumno_asistencia">
-<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member>
-<member name="T:SistemaAsdi.lista_alumno_asistencia.view_alumno_asistenciaDataTable">
-<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member>
-<member name="T:SistemaAsdi.lista_alumno_asistencia.view_alumno_asistenciaRow">
-<summary>
-Represents strongly named DataRow class.
-</summary>
-</member>
-<member name="T:SistemaAsdi.lista_alumno_asistencia.view_alumno_asistenciaRowChangeEvent">
-<summary>
-Row event argument class
-</summary>
-</member>
-<member name="T:SistemaAsdi.lista_alumno_asistenciaTableAdapters.view_alumno_asistenciaTableAdapter">
-<summary>
-Represents the connection and commands used to retrieve and save data.
-</summary>
-</member>
-<member name="T:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager">
-<summary>
-TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
-</summary>
-</member>
-<member name="M:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager.UpdateUpdatedRows(SistemaAsdi.lista_alumno_asistencia,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
-<summary>
-Update rows in top-down order.
-</summary>
-</member>
-<member name="M:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager.UpdateInsertedRows(SistemaAsdi.lista_alumno_asistencia,System.Collections.Generic.List{System.Data.DataRow})">
-<summary>
-Insert rows in top-down order.
-</summary>
-</member>
-<member name="M:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager.UpdateDeletedRows(SistemaAsdi.lista_alumno_asistencia,System.Collections.Generic.List{System.Data.DataRow})">
-<summary>
-Delete rows in bottom-up order.
-</summary>
-</member>
-<member name="M:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
-<summary>
-Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
-</summary>
-</member>
-<member name="M:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager.UpdateAll(SistemaAsdi.lista_alumno_asistencia)">
-<summary>
-Update all changes to the dataset.
-</summary>
-</member>
-<member name="T:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager.UpdateOrderOption">
-<summary>
-Update Order Option
-</summary>
-</member>
-<member name="T:SistemaAsdi.lista_alumno_asistenciaTableAdapters.TableAdapterManager.SelfReferenceComparer">
-<summary>
-Used to sort self-referenced table's rows
-</summary>
-</member>
 <member name="T:SistemaAsdi.Lista_matricula_separada">
 <summary>
 Represents a strongly typed in-memory cache of data.
@@ -432,26 +367,6 @@ Update Order Option
 Used to sort self-referenced table's rows
 </summary>
 </member>
-<member name="T:SistemaAsdi.lista_curso">
-<summary>
-Represents a strongly typed in-memory cache of data.
-</summary>
-</member>
-<member name="T:SistemaAsdi.lista_curso.lista_cursoDataTable">
-<summary>
-Represents the strongly named DataTable class.
-</summary>
-</member>
-<member name="T:SistemaAsdi.lista_curso.lista_cursoRow">
-<summary>
-Represents strongly named DataRow class.
-</summary>
-</member>
-<member name="T:SistemaAsdi.lista_curso.lista_cursoRowChangeEvent">
-<summary>
-Row event argument class
-</summary>
-</member>
 <member name="T:SistemaAsdi.lista_profesor">
 <summary>
 Represents a strongly typed in-memory cache of data.
@@ -468,6 +383,26 @@ Represents strongly named DataRow class.
 </summary>
 </member>
 <member name="T:SistemaAsdi.lista_profesor.lista_profesorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_curso">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_curso.lista_cursoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_curso.lista_cursoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SistemaAsdi.lista_curso.lista_cursoRowChangeEvent">
 <summary>
 Row event argument class
 </summary>
