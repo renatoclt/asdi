@@ -12,11 +12,11 @@ Public Class cls_conexion
     Public Sub New()
         Dim reg As New cls_registro
         Try
-            'Port = "3306"
-            'Server = "192.168.1.112"
-            'Database = "asdi" 'reg.leer("database")
-            'User = "root"
-            'Password = "YES"
+            Port = "3306"
+            Server = "192.168.1.112"
+            Database = "asdi" 'reg.leer("database")
+            User = "root"
+            Password = "YES"
 
             'Port = "3306"
             'Server = "192.168.1.112"
@@ -25,11 +25,11 @@ Public Class cls_conexion
             'Password = "YES"
 
 
-            Port = "3306"
-            Server = "localhost"
-            Database = "asdi" 'reg.Leer("Database")
-            User = "root"
-            Password = ""
+            'Port = "3306"
+            'Server = "localhost"
+            'Database = "asdi" 'reg.Leer("Database")
+            'User = "root"
+            'Password = ""
         Catch ex As Exception
             MsgBox("No se puede leer los parametros de coneccion")
         End Try
